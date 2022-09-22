@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reinforcement learning on Corentin LEGER</title>
-    <link>http://corentinlger.github.io/tags/reinforcement-learning/</link>
+    <link>https://corentinlger.github.io/tags/reinforcement-learning/</link>
     <description>Recent content in Reinforcement learning on Corentin LEGER</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Aug 2022 10:58:08 -0400</lastBuildDate><atom:link href="http://corentinlger.github.io/tags/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Aug 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://corentinlger.github.io/tags/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CartPole-v0 Reinforcement learning</title>
-      <link>http://corentinlger.github.io/post/cartpole-v0/</link>
+      <link>https://corentinlger.github.io/post/cartpole-v0/</link>
       <pubDate>Tue, 09 Aug 2022 10:58:08 -0400</pubDate>
       
-      <guid>http://corentinlger.github.io/post/cartpole-v0/</guid>
-      <description>A classical reinforcement learning project on the gym environment CartPole-V0. The experience has been done with two models, using PPO and DQN methods.
+      <guid>https://corentinlger.github.io/post/cartpole-v0/</guid>
+      <description>A classical reinforcement learning project on the gym environment CartPole-V0. The agent is the cart, controlled by two possible actions +1, -1 pointing on moving left or right. Our goal is to maintain this cart as straight as possible. To do so, we developped two reinforcement learning models, using Proximal Policy Optimization (PPO) and Deep Q-Network (DQN) methods.
 Link to Github repository</description>
     </item>
     

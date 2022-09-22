@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UX on Corentin LEGER</title>
+    <link>https://corentinlger.github.io/tags/ux/</link>
+    <description>Recent content in UX on Corentin LEGER</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 May 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://corentinlger.github.io/tags/ux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Human-machine interface for Ice cream shop</title>
+      <link>https://corentinlger.github.io/post/ihmcanada/</link>
+      <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://corentinlger.github.io/post/ihmcanada/</guid>
+      <description>This UX project was realized with 5 other classmates in Canada. We had to create a brand new human machine interface for an ice cream shop and answer to specific needs. In order to do so, we had to contact potential customers but also people working in this fiel, and interview them based on UX methods. When we fully understood the needs of the future interface users, we started to create wireframes.</description>
+    </item>
+    
+  </channel>
+</rss>

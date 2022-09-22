@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graph Traversal on Corentin LEGER</title>
+    <link>https://corentinlger.github.io/tags/graph-traversal/</link>
+    <description>Recent content in Graph Traversal on Corentin LEGER</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Oct 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://corentinlger.github.io/tags/graph-traversal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Graph Traversal</title>
+      <link>https://corentinlger.github.io/post/graph-traversal/</link>
+      <pubDate>Sat, 09 Oct 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://corentinlger.github.io/post/graph-traversal/</guid>
+      <description>This is our first artificial intellligence project with two classmates at the ENSC. The goal was to use graph traversal algorithms such as Diksjtra or A* to find the shortest path to a location on a map. In order to do so, we had to adapt to each environment to find appropriate heuristics and improve our algorithms.
+Link to Github repository</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,35 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Corentin LEGER</title>
-    <link>http://corentinlger.github.io/tags/</link>
+    <link>https://corentinlger.github.io/tags/</link>
     <description>Recent content in Tags on Corentin LEGER</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Sep 2022 10:58:08 -0400</lastBuildDate><atom:link href="http://corentinlger.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Sep 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://corentinlger.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>data science</title>
-      <link>http://corentinlger.github.io/tags/data-science/</link>
+      <link>https://corentinlger.github.io/tags/data-science/</link>
       <pubDate>Fri, 09 Sep 2022 10:58:08 -0400</pubDate>
       
-      <guid>http://corentinlger.github.io/tags/data-science/</guid>
+      <guid>https://corentinlger.github.io/tags/data-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reinforcement learning</title>
-      <link>http://corentinlger.github.io/tags/reinforcement-learning/</link>
+      <link>https://corentinlger.github.io/tags/reinforcement-learning/</link>
       <pubDate>Tue, 09 Aug 2022 10:58:08 -0400</pubDate>
       
-      <guid>http://corentinlger.github.io/tags/reinforcement-learning/</guid>
+      <guid>https://corentinlger.github.io/tags/reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Traversal</title>
+      <link>https://corentinlger.github.io/tags/graph-traversal/</link>
+      <pubDate>Sat, 09 Oct 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://corentinlger.github.io/tags/graph-traversal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>neurosciences</title>
-      <link>http://corentinlger.github.io/tags/neurosciences/</link>
+      <link>https://corentinlger.github.io/tags/neurosciences/</link>
       <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
       
-      <guid>http://corentinlger.github.io/tags/neurosciences/</guid>
+      <guid>https://corentinlger.github.io/tags/neurosciences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UX</title>
+      <link>https://corentinlger.github.io/tags/ux/</link>
+      <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://corentinlger.github.io/tags/ux/</guid>
       <description></description>
     </item>
     
