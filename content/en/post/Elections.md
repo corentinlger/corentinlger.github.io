@@ -2,7 +2,7 @@
 date: 2022-04-10T11:00:59-04:00
 description: "A program that predicts the vote of canadian citizens based on responses to a survey for presidential elections"
 featured_image: ""
-tags: [data science]
+tags: [Data Science]
 title: "Canadian Elections"
 ---
 

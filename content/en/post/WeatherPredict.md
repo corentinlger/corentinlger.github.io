@@ -6,7 +6,7 @@ tags: [data science]
 title: "Weather predict"
 ---
 
-A simple data science project to predicyt weather thanks to historical data, using the neuralProphet librairy <p>
+This is a simple data science project to predict weather thanks to historical data, using the python librairy NeuralProphet, which is used for modeling time-series data based on neural networks. More precisely, we made an estimation of the temparature of Melbourne for each day between 2015 and 2016. Then we saved our model with pickle librairy.  <p>
 
 
 [Link to Github repository](https://github.com/corentinlger/Weather-Predict)
