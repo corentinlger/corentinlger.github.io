@@ -7,8 +7,14 @@ menu:
     weight: 1
 ---
 
-I am a 22 years old student in the engineering school ENSC (Ecole Nationale Supérieure de Cognitique) . Cognitique is a french word designating the association between cognitive and computer sciences. It includes artificial intelligence, human-machine interaction, UX, but also human and social sciences. I am passionate about human, problem solving and technologies, and that is why i chose this field of study. 
+I am a 22 years old student who is passionate about human, science and sport! After high-school, I went two years in preparatory class in Bordeaux, in sport study program in volley-ball. I still play in french national 3 league in Talence with friends.
 
-After discovering AI and data science in my exchange semestre in Canada, at Laval University, I've decided to specialize in these fields for my last year in engineering school, at the ENSEIRB MATMECA.
+After this, I joined the engineering school ENSC (Ecole Nationale Supérieure de Cognitique) . Cognitique is a french word designating the association between cognitive and computer sciences. It includes artificial intelligence, human-machine interaction, UX, but also human and social sciences. One of the main reasons of this choice is a project that I worked on in High-School with a neuroscientist. We had to study the biological mecanisms of happiness and drugs with a friend, and it really motivated me to work in a field related to cognitive sciences in the future. 
 
- I am currently looking for an intership in this field for year 2023. Don't hesitate to contact me on my social medias if it interests you !
+After discovering AI and data science in my exchange semester in Canada, at Laval University, I've decided to specialize in these fields for my last year in engineering school, at the ENSEIRB MATMECA.
+
+ I am currently looking for an intership in this field for year 2023, so don't hesitate to contact me on my social medias if it interests you !
+
+ Have a good day, 
+
+ Corentin 
