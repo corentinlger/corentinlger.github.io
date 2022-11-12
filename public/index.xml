@@ -6,14 +6,32 @@
     <description>Recent content in &#39;Cognitique&#39; Engineer on Corentin LEGER</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Sep 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://corentinlger.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Oct 2022 11:00:59 -0400</lastBuildDate><atom:link href="https://corentinlger.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alzheimer disease detection by 3D MRI analysis </title>
+      <link>https://corentinlger.github.io/post/alzheimer/</link>
+      <pubDate>Mon, 10 Oct 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://corentinlger.github.io/post/alzheimer/</guid>
+      <description>This project focuses on medical imaging. The goal is to develop a method in order to detect the state of development of Alzheimer disease thanks 3D MRI scans of humain brain.</description>
+    </item>
+    
+    <item>
+      <title>Symbolic Reinforcement learning - Research project with Inria</title>
+      <link>https://corentinlger.github.io/post/symbolicrl/</link>
+      <pubDate>Sat, 10 Sep 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://corentinlger.github.io/post/symbolicrl/</guid>
+      <description>Modeling complex problems is a real issue in Reinforcement learning. The goal of this projet is to use a RL model, such as Q-learning, on symbolic data, where the knowledge of the problem would be stored, in the form of qualitative or numerical data (in JSON for example). Instead of only working with numerical data, we could link the data with a certain &amp;rsquo;edition distance&amp;rsquo; which permits to evaluate the proximity of 2 elements.</description>
+    </item>
+    
     <item>
       <title>Emotion classifier</title>
       <link>https://corentinlger.github.io/post/emotionclassifier/</link>
       <pubDate>Fri, 09 Sep 2022 10:58:08 -0400</pubDate>
       
       <guid>https://corentinlger.github.io/post/emotionclassifier/</guid>
-      <description>This data science project aims to identify what emotion a person is feeling on a picture. Here, we especially focus on depressed or happy people. In order to do so, pictures were downloaded from the web thanks to a data pipeline and have then been pre-processed. Then, a machine learning model has been created with the Tensorflow package to learn our artificial intelligence what people look like depending on their emotions.</description>
+      <description>This data science project aims to identify what emotion a person is feeling on a picture. Here, we especially focus on depressed or happy people. In order to do so, pictures were downloaded from the web thanks to a data pipeline and have then been pre-processed. Then, a deep learning model has been created with Tensorflow in order to classify emotions of people. The model has finally been evaluated, and tested on other random images and gave excellent results.</description>
     </item>
     
     <item>
@@ -35,25 +53,6 @@
     </item>
     
     <item>
-      <title>CartPole-v0 Reinforcement learning</title>
-      <link>https://corentinlger.github.io/post/cartpole-v0/</link>
-      <pubDate>Tue, 09 Aug 2022 10:58:08 -0400</pubDate>
-      
-      <guid>https://corentinlger.github.io/post/cartpole-v0/</guid>
-      <description>A classical reinforcement learning project on the gym environment CartPole-V0. The agent is the cart, controlled by two possible actions +1, -1 pointing on moving left or right. Our goal is to maintain this cart as straight as possible. To do so, we developped two reinforcement learning models, using Proximal Policy Optimization (PPO) and Deep Q-Network (DQN) methods.
-Link to Github repository</description>
-    </item>
-    
-    <item>
-      <title>Weather predict</title>
-      <link>https://corentinlger.github.io/post/weatherpredict/</link>
-      <pubDate>Sun, 10 Jul 2022 11:00:59 -0400</pubDate>
-      
-      <guid>https://corentinlger.github.io/post/weatherpredict/</guid>
-      <description>This is a simple data science project to predict weather thanks to historical data, using the python librairy NeuralProphet, which is used for modeling time-series data based on neural networks. More precisely, we made an estimation of the temparature of Melbourne for each day between 2015 and 2016. Then we saved our model with pickle librairy. Link to Github repository</description>
-    </item>
-    
-    <item>
       <title>Canadian Elections</title>
       <link>https://corentinlger.github.io/post/elections/</link>
       <pubDate>Sun, 10 Apr 2022 11:00:59 -0400</pubDate>
@@ -69,16 +68,6 @@ Link to Github repository</description>
       
       <guid>https://corentinlger.github.io/post/baroudeur/</guid>
       <description>This is a transdisciplinary project that ended up with the creation of a mobile application called “Baroudeurs”. The goal is to help people discover cities in a innovative manner. Indeed, Baroudeurs doesn&amp;rsquo;t give you a particular itinerary to places or monuments, but it lets you discover a city and its misteries. The idea is to get inspiration from video games to devellop the application, to create an experience based on discovery, curiosity the amazement to find a new places and learn its history.</description>
-    </item>
-    
-    <item>
-      <title>Graph Traversal</title>
-      <link>https://corentinlger.github.io/post/graph-traversal/</link>
-      <pubDate>Sat, 09 Oct 2021 10:58:08 -0400</pubDate>
-      
-      <guid>https://corentinlger.github.io/post/graph-traversal/</guid>
-      <description>This is our first artificial intellligence project with two classmates at the ENSC. The goal was to use graph traversal algorithms such as Diksjtra or A* to find the shortest path to a location on a map. In order to do so, we had to adapt to each environment to find appropriate heuristics and improve our algorithms.
-Link to Github repository</description>
     </item>
     
     <item>

@@ -2,7 +2,7 @@
 date: 2020-05-09T10:58:08-04:00
 description: "Relation between stress and addiction"
 featured_image: ""
-tags: [neurosciences]
+tags: [Neurosciences]
 title: "Stress and addiction "
 ---
 

@@ -6,9 +6,27 @@
     <description>Recent content in Tags on Corentin LEGER</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Sep 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://corentinlger.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Oct 2022 11:00:59 -0400</lastBuildDate><atom:link href="https://corentinlger.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>data science</title>
+      <title>Deep Learning</title>
+      <link>https://corentinlger.github.io/tags/deep-learning/</link>
+      <pubDate>Mon, 10 Oct 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://corentinlger.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement learning</title>
+      <link>https://corentinlger.github.io/tags/reinforcement-learning/</link>
+      <pubDate>Sat, 10 Sep 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://corentinlger.github.io/tags/reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science</title>
       <link>https://corentinlger.github.io/tags/data-science/</link>
       <pubDate>Fri, 09 Sep 2022 10:58:08 -0400</pubDate>
       
@@ -17,38 +35,20 @@
     </item>
     
     <item>
-      <title>Reinforcement learning</title>
-      <link>https://corentinlger.github.io/tags/reinforcement-learning/</link>
-      <pubDate>Tue, 09 Aug 2022 10:58:08 -0400</pubDate>
+      <title>UX</title>
+      <link>https://corentinlger.github.io/tags/ux/</link>
+      <pubDate>Sun, 09 Jan 2022 10:58:08 -0400</pubDate>
       
-      <guid>https://corentinlger.github.io/tags/reinforcement-learning/</guid>
+      <guid>https://corentinlger.github.io/tags/ux/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Graph Traversal</title>
-      <link>https://corentinlger.github.io/tags/graph-traversal/</link>
-      <pubDate>Sat, 09 Oct 2021 10:58:08 -0400</pubDate>
-      
-      <guid>https://corentinlger.github.io/tags/graph-traversal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neurosciences</title>
+      <title>Neurosciences</title>
       <link>https://corentinlger.github.io/tags/neurosciences/</link>
       <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
       
       <guid>https://corentinlger.github.io/tags/neurosciences/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UX</title>
-      <link>https://corentinlger.github.io/tags/ux/</link>
-      <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
-      
-      <guid>https://corentinlger.github.io/tags/ux/</guid>
       <description></description>
     </item>
     

@@ -2,7 +2,7 @@
 date: 2022-08-10T11:00:59-04:00
 description: ""
 featured_image: ""
-tags: [data science]
+tags: [Data Science]
 title: "Maintenance optimization for an helicopter fleet"
 ---
 

@@ -6,7 +6,16 @@
     <description>Recent content in UX on Corentin LEGER</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 May 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://corentinlger.github.io/tags/ux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Jan 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://corentinlger.github.io/tags/ux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design of a mobile application &#39;Baroudeurs&#39;</title>
+      <link>https://corentinlger.github.io/post/baroudeur/</link>
+      <pubDate>Sun, 09 Jan 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://corentinlger.github.io/post/baroudeur/</guid>
+      <description>This is a transdisciplinary project that ended up with the creation of a mobile application called “Baroudeurs”. The goal is to help people discover cities in a innovative manner. Indeed, Baroudeurs doesn&amp;rsquo;t give you a particular itinerary to places or monuments, but it lets you discover a city and its misteries. The idea is to get inspiration from video games to devellop the application, to create an experience based on discovery, curiosity the amazement to find a new places and learn its history.</description>
+    </item>
+    
     <item>
       <title>Human-machine interface for Ice cream shop</title>
       <link>https://corentinlger.github.io/post/ihmcanada/</link>

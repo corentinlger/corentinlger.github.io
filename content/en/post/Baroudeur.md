@@ -2,7 +2,7 @@
 date: 2022-01-09T10:58:08-04:00
 description: ""
 featured_image: ""
-tags: []
+tags: [UX]
 title: "Design of a mobile application 'Baroudeurs'"
 ---
 

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>data science on Corentin LEGER</title>
+    <title>Data Science on Corentin LEGER</title>
     <link>https://corentinlger.github.io/tags/data-science/</link>
-    <description>Recent content in data science on Corentin LEGER</description>
+    <description>Recent content in Data Science on Corentin LEGER</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 09 Sep 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://corentinlger.github.io/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <pubDate>Fri, 09 Sep 2022 10:58:08 -0400</pubDate>
       
       <guid>https://corentinlger.github.io/post/emotionclassifier/</guid>
-      <description>This data science project aims to identify what emotion a person is feeling on a picture. Here, we especially focus on depressed or happy people. In order to do so, pictures were downloaded from the web thanks to a data pipeline and have then been pre-processed. Then, a machine learning model has been created with the Tensorflow package to learn our artificial intelligence what people look like depending on their emotions.</description>
+      <description>This data science project aims to identify what emotion a person is feeling on a picture. Here, we especially focus on depressed or happy people. In order to do so, pictures were downloaded from the web thanks to a data pipeline and have then been pre-processed. Then, a deep learning model has been created with Tensorflow in order to classify emotions of people. The model has finally been evaluated, and tested on other random images and gave excellent results.</description>
     </item>
     
     <item>
@@ -32,15 +32,6 @@
       
       <guid>https://corentinlger.github.io/post/connectivit/</guid>
       <description>This is my first internship in data science for Connectiv-IT. My mission was to work on the optimization of the maintenance of an aircraft fleet. I realized several data science tasks such as data processing and visualization, but also statistical analysis and clustering thanks to unsupervised learning. Two models of outlier detection and missing value simulation were also created, as well as a theoretical linear programming optimization model.</description>
-    </item>
-    
-    <item>
-      <title>Weather predict</title>
-      <link>https://corentinlger.github.io/post/weatherpredict/</link>
-      <pubDate>Sun, 10 Jul 2022 11:00:59 -0400</pubDate>
-      
-      <guid>https://corentinlger.github.io/post/weatherpredict/</guid>
-      <description>This is a simple data science project to predict weather thanks to historical data, using the python librairy NeuralProphet, which is used for modeling time-series data based on neural networks. More precisely, we made an estimation of the temparature of Melbourne for each day between 2015 and 2016. Then we saved our model with pickle librairy. Link to Github repository</description>
     </item>
     
     <item>
