@@ -10,6 +10,8 @@ This is a neuroscience and psychology project that aims to understand the relati
 The article written will in a first time explain some parts of stress mecanism, then addiction and finally how they interact with each other.
 <p>
 
+- Team size : 2 persons
+- Project lenght : 3 months
 
 
 [Link to the article](https://github.com/corentinlger/Relation-entre-Stress-et-Addiction/blob/main/TOUMINE%20LEGER%20Projet%20Stress%20%26%20Addiction.pdf)

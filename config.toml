@@ -35,7 +35,7 @@ enableRobotsTXT = true
 
 [[params.ananke_socials]]
 name = "linkedin"
-url = "https://www.linkedin.com/in/corentin-l-765736233"
+url = "https://www.linkedin.com/in/corentin-l/"
 [[params.ananke_socials]]
 name = "github"
 url = "https://github.com/corentinlger"

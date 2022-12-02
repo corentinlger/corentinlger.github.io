@@ -13,7 +13,7 @@ Contact me on social medias :
 
 
 
-* LinkedIn : [link here](https://fr.linkedin.com/in/corentin-l-765736233)
+* LinkedIn : [click here](https://www.linkedin.com/in/corentin-l/)
 * email    : coleger@ensc.fr
 
 
