@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genetic Algorithms on Corentin LEGER</title>
+    <link>https://corentinlger.github.io/tags/genetic-algorithms/</link>
+    <description>Recent content in Genetic Algorithms on Corentin LEGER</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Jan 2023 11:00:59 -0400</lastBuildDate><atom:link href="https://corentinlger.github.io/tags/genetic-algorithms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Genetic Algorithm for sport&#39;s pools optimization</title>
+      <link>https://corentinlger.github.io/post/sportpools/</link>
+      <pubDate>Sun, 15 Jan 2023 11:00:59 -0400</pubDate>
+      
+      <guid>https://corentinlger.github.io/post/sportpools/</guid>
+      <description>Being a volleyball player and taking the road several times a month, to play against other teams in distant cities, I wondered how sport pools are optimized in order to have a reasonable travel time between the teams of a same pool. To understand better, I tried to create my own genetic algorithm to optimize those kind of problems. After creating a dataset with all the cities in National 3 league in France, and obtained their GPS coordinates with a python package.</description>
+    </item>
+    
+  </channel>
+</rss>

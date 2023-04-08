@@ -8,13 +8,21 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://corentinlger.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Genetic Algorithm for sport&#39;s pools optimization</title>
+      <link>https://corentinlger.github.io/post/sportpools/</link>
+      <pubDate>Sun, 15 Jan 2023 11:00:59 -0400</pubDate>
+      
+      <guid>https://corentinlger.github.io/post/sportpools/</guid>
+      <description>Being a volleyball player and taking the road several times a month, to play against other teams in distant cities, I wondered how sport pools are optimized in order to have a reasonable travel time between the teams of a same pool. To understand better, I tried to create my own genetic algorithm to optimize those kind of problems. After creating a dataset with all the cities in National 3 league in France, and obtained their GPS coordinates with a python package.</description>
+    </item>
+    
+    <item>
       <title>Alzheimer disease detection by 3D MRI analysis </title>
       <link>https://corentinlger.github.io/post/alzheimer/</link>
       <pubDate>Mon, 10 Oct 2022 11:00:59 -0400</pubDate>
       
       <guid>https://corentinlger.github.io/post/alzheimer/</guid>
-      <description>This project focuses on medical imaging and computer vision. The goal is to develop a method (a machine learning with 2D or 3D convolutions) in order to detect the state of development of Alzheimer disease thanks 3D MRI scans of humain brain.
-Team size : 4 persons Project lenght : 1 month </description>
+      <description>This project focuses on medical imaging and computer vision. The goal is to develop a machine learning model able to detect the state of development of the Alzheimer disease, using 3D MRI data from patients. In order to do so, we tried different approaches, including the &amp;lsquo;2D epsilon&amp;rsquo; method, which is the use of 2D Convolutionnal neural networks on 2D slices of the MRI, and also the direct use of 3D CNN.</description>
     </item>
     
     <item>
