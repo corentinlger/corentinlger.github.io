@@ -1,5 +1,5 @@
 ---
-date: 2022-01-09T10:58:08-04:00
+date: 2022-01-02T10:58:08-04:00
 description: ""
 featured_image: ""
 tags: [UX]
@@ -10,7 +10,6 @@ This is a transdisciplinary project that ended up with the creation of a mobile 
 We worked on the conception of the application with UX methods, and also programmed the back-end part of Baroudeurs. Another group was in charge of the coding of the apllication. 
 
 - Team size : 2 persons
-- Project lenght : 6 month 
 
 {{< figure src="/images/baroudeurs.png"  >}}
 

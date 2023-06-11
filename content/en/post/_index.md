@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-featured_image: "/images/pexels-markus-spiske-1936299-1280x800.jpg"
+featured_image: "/images/1_7E8kYKb-Zr9CqjcNzHNhMA.jpeg"
 
 date: 2017-03-02T12:00:00-05:00
 ---

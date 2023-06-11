@@ -1,17 +1,17 @@
 ---
-date: 2023-01-15T11:00:59-04:00
+date: 2023-04-15T11:00:59-04:00
 description: ""
 featured_image: ""
 tags: [Genetic Algorithms]
 title: "Genetic Algorithm for sport's pools optimization"
 ---
 
+Being a volleyball player and taking the road several times a month, to play against other teams in distant cities, I wondered how sport pools were optimized in order to have more reasonable and equivalent travel times for the teams of a same category. 
 
-Being a volleyball player and taking the road several times a month, to play against other teams in distant cities, I wondered how sport pools are optimized in order to have a reasonable travel time between the teams of a same pool. To understand better, I tried to create my own genetic algorithm to optimize those kind of problems. After creating a dataset with all the cities in National 3 league in France, and obtained their GPS coordinates with a python package. After that I was able to calculate the distances between every cities, and started to design all the parts of the genetic algorithm. It worked pretty well with the fitness function I chose ! But even if the pools configuration it finds reduces the total distance travalled in all France, the distance travelled within pools are pretty unbalanced, and there are still improvements to make. 
+To get a better understanding of how I could improve the current distribution of cities in sport pools and learn more about evolutionnary algorithms, I created a custom genetic algorithm from scratch only using NumPy. It is integrated in a python class, and you can use easiely use it by only providing another list of cities to allocate in pools ! An example of use is provided in a jupyter-notebook file.
 
-- Project lenght : 1 month 
 
-[Link to the Github Repository](https://github.com/corentinlger/Volleyball-Pools-)
+[Link to the Github Repository](https://github.com/corentinlger/Evolutionary_Sport_Pools_Optimizer)
 
  
 
