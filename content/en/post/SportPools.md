@@ -5,11 +5,11 @@ featured_image: ""
 tags: [Genetic Algorithms]
 title: "Genetic Algorithm for sport's pools optimization"
 ---
+As a volleyball player who frequently travels to play against teams in distant cities, I became curious about how sports pools are optimized to ensure fair and reasonable travel times for teams in the same category. To explore this further and delve into evolutionary algorithms, I embarked on a project to create a custom genetic algorithm using NumPy.
 
-Being a volleyball player and taking the road several times a month, to play against other teams in distant cities, I wondered how sport pools were optimized in order to have more reasonable and equivalent travel times for the teams of a same category. 
+The custom genetic algorithm is designed to improve the current distribution of cities in sports pools. The algorithm is implemented as a Python class, making it easy to use. All you need to do is provide a list of cities that you want to allocate in the pools, and the algorithm takes care of the rest.
 
-To get a better understanding of how I could improve the current distribution of cities in sport pools and learn more about evolutionnary algorithms, I created a custom genetic algorithm from scratch only using NumPy. It is integrated in a python class, and you can use easiely use it by only providing another list of cities to allocate in pools ! An example of use is provided in a jupyter-notebook file.
-
+To showcase the algorithm's functionality and usage, I've included an example in a Jupyter Notebook file, which demonstrates how to utilize the genetic algorithm with different city lists.
 
 [Link to the Github Repository](https://github.com/corentinlger/Evolutionary_Sport_Pools_Optimizer)
 
