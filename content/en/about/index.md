@@ -1,19 +1,16 @@
 ---
 title: "About"
-description: "Hi ! I'm Corentin Leger, a french student in 'Cognitique', particularly interested in AI and Reinforcement Learning "
+description: "Hello I'm Corentin, an AI research engineer particularly interested in Reinforcement Learning and Cognitive Sciences "
 featured_image: '/images/1_7E8kYKb-Zr9CqjcNzHNhMA.jpeg'
 menu:
   main:
     weight: 1
 ---
 
-I'm a 23-year-old student passionate about humans, science, sports, and learning new things. I integrated ENSC, a French engineering school focused on the association between cognitive and computer sciences, including AI, human-machine interaction, and UX. My interest in cognitive sciences was sparked by a high school project supervised by a neuroscience researcher and further fueled by a memoir on 'Stress and Addiction' during preparatory class.
+I'm a 23-year-old engineer passionate about humans, science, and learning new things in general. I graduated from ENSC, a French engineering school focused on the synergy between cognitive and computer sciences. My interest in these fields was originally sparked by a high school project supervised by a neuroscience researcher. 
 
-During an exchange semester in Canada, I discovered artificial intelligence and data science, which led me to delve deeper into these fields by doing a data science internship and then my final year at ENSEIRB MATMECA. Working with Inria researchers, I explored the combination of reinforcement learning and symbolic AI.
+During this school, my curiosity led me to do an exchange semester in Canada, where I discovered with more depth artificial intelligence and data science, and decided to do a data science internship the same year. I did another exchange the next semester at ENSEIRB MATMECA to specialize in artificial intelligence, which allowed me to get my first research experience. This project aimed to explored the association of Reinforcement Learning and symbolic AI with Inria PhDs and researchers.
 
-Now, I'm pursuing a Deep Reinforcement Learning research internship at Inria between Flowers and Mnemosyne teams. My research theme is currently "evolving Reservoirs for Meta-Reinforcement Learning".
+I'm now a research intern at Inria between Flowers and Mnemosyne teams, where I study the combination of meta Reinforcement Learning, evolutionary algorithms and Reservoir Computing. 
 
-If you're interested in collaborating on reinforcement learning or related research projects, feel free to reach out!
-
-
-
+I also love sport, and play volley-ball at a national level.

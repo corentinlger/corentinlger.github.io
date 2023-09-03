@@ -8,9 +8,9 @@ menu: main
 
 ---
 
-Feel free to reach out to me through any of the below channels !
+Feel free to reach out to me through any of the below channels :
 
-- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/corentin-l/)
+- LinkedIn: [https://www.linkedin.com/in/corentin-l/](https://www.linkedin.com/in/corentin-l/)
 - Email: coleger@ensc.fr
 
 

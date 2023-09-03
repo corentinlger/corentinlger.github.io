@@ -18,7 +18,6 @@ Bordeaux, France\
 - Reinforcement Learning
 - Research algorithms
 
-
 ## Laval University
 **Exchange semester program**\
 Québec, Canada\
