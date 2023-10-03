@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Reinforcement Learning - Tag - Personal Website</title>
+        <link>http://example.org/tags/reinforcement-learning/</link>
+        <description>Reinforcement Learning - Tag - Personal Website</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 12 Jul 2023 11:00:59 -0400</lastBuildDate><atom:link href="http://example.org/tags/reinforcement-learning/" rel="self" type="application/rss+xml" /><item>
+    <title>Rising Sun</title>
+    <link>http://example.org/posts/risingsun/</link>
+    <pubDate>Wed, 12 Jul 2023 11:00:59 -0400</pubDate>
+    <author>Corentin</author>
+    <guid>http://example.org/posts/risingsun/</guid>
+    <description><![CDATA[To try to beat friends on the combat phases of the &ldquo;Rising Sun&rdquo; board game, I created this simplified gymnasium implementation of the game. The project also incorporates a python script to train a single RL agent on the environment. This agent can currently only be trained against hard-coded players (either random of with heuristics).
+The next step will be to add multi-agents training to the project. Then, it will be interesting to explore the path of self play to see how complex the behaviors of the agent can become !]]></description>
+</item>
+<item>
+    <title>Inria Research Project - Symbolic Reinforcement Learning</title>
+    <link>http://example.org/posts/symbolicrl/</link>
+    <pubDate>Mon, 16 Jan 2023 11:00:59 -0400</pubDate>
+    <author>Corentin</author>
+    <guid>http://example.org/posts/symbolicrl/</guid>
+    <description><![CDATA[Modeling complex problems is a real issue in Reinforcement learning. The goal of this projet is to use a RL model, such as Q-learning, on symbolic data, where the knowledge of the problem would be stored, in the form of qualitative or numerical data (in JSON for example). Instead of only working with numerical data, we could link the data with a certain &rsquo;edition distance&rsquo; which permits to evaluate the proximity of 2 elements.]]></description>
+</item>
+</channel>
+</rss>

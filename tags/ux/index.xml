@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>UX - Tag - Personal Website</title>
+        <link>http://example.org/tags/ux/</link>
+        <description>UX - Tag - Personal Website</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 02 Jan 2022 10:58:08 -0400</lastBuildDate><atom:link href="http://example.org/tags/ux/" rel="self" type="application/rss+xml" /><item>
+    <title>Design of a mobile application &#39;Baroudeurs&#39;</title>
+    <link>http://example.org/posts/baroudeur/</link>
+    <pubDate>Sun, 02 Jan 2022 10:58:08 -0400</pubDate>
+    <author>Corentin</author>
+    <guid>http://example.org/posts/baroudeur/</guid>
+    <description><![CDATA[This is a transdisciplinary project that ended up with the creation of a mobile application called “Baroudeurs”. The goal is to help people discover cities in a innovative manner. Indeed, Baroudeurs doesn&rsquo;t give you a particular itinerary to places or monuments, but it lets you discover a city and its misteries. The idea is to get inspiration from video games to develop the application, to create an experience based on discovery, curiosity the amazement to find a new places and learn its history.]]></description>
+</item>
+</channel>
+</rss>
