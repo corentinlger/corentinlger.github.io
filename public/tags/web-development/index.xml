@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Web Development - Tag - Personal Website</title>
+        <title>Web Development - Tag - Corentin LEGER</title>
         <link>http://example.org/tags/web-development/</link>
-        <description>Web Development - Tag - Personal Website</description>
+        <description>Web Development - Tag - Corentin LEGER</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 02 Jan 2022 10:58:08 -0400</lastBuildDate><atom:link href="http://example.org/tags/web-development/" rel="self" type="application/rss+xml" /><item>
     <title>Design of a mobile application &#39;Baroudeurs&#39;</title>
     <link>http://example.org/posts/baroudeur/</link>

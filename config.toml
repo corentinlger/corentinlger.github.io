@@ -1,7 +1,10 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Personal Website'
+title = 'Corentin LEGER'
 theme = 'LoveIt'
+
+[params]
+  defaultTheme = "light"
 
 [params.header.title]
     logo = ""
@@ -15,6 +18,7 @@ theme = 'LoveIt'
 [params.social]
     github = "corentinlger"
     linkedin = "corentin-l"
+
 
 [menu]
   [[menu.main]]
@@ -39,7 +43,7 @@ theme = 'LoveIt'
 
   [[menu.main]]
     name = "Projects"
-    url = "/posts"
+    url = "/posts/"
     weight = 5
 
 [params.page]

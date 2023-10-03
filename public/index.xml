@@ -1,6 +1,6 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Personal Website</title>
+        <title>Corentin LEGER</title>
         <link>http://example.org/</link>
         <description>This is my cool site</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 12 Sep 2023 11:00:59 -0400</lastBuildDate>
@@ -11,8 +11,8 @@
     <pubDate>Tue, 12 Sep 2023 11:00:59 -0400</pubDate>
     <author>Corentin</author>
     <guid>http://example.org/posts/opensource/</guid>
-    <description><![CDATA[Minor open Source contributions on scientific python libraries such as Stable-Baslines3 (Reinforcement Learning) or Optuna (Hyperparameter Search).
-Wrote a turorial for parallelized hyper parameter search on another AI library : ReservoirPy.]]></description>
+    <description><![CDATA[Minor open Source contributions on scientific python libraries such as Stable-Baselines3.
+Wrote a turorial for parallelized hyper parameter search for another machine learning library called ReservoirPy.]]></description>
 </item>
 <item>
     <title>Rising Sun</title>

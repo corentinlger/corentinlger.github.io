@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Machine Learning - Tag - Personal Website</title>
+        <title>Machine Learning - Tag - Corentin LEGER</title>
         <link>http://example.org/tags/machine-learning/</link>
-        <description>Machine Learning - Tag - Personal Website</description>
+        <description>Machine Learning - Tag - Corentin LEGER</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 15 Apr 2022 11:00:59 -0400</lastBuildDate><atom:link href="http://example.org/tags/machine-learning/" rel="self" type="application/rss+xml" /><item>
     <title>Canadian Elections</title>
     <link>http://example.org/posts/canadianelections/</link>

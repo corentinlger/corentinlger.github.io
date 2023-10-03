@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>NumPy - Tag - Personal Website</title>
+        <title>NumPy - Tag - Corentin LEGER</title>
         <link>http://example.org/tags/numpy/</link>
-        <description>NumPy - Tag - Personal Website</description>
+        <description>NumPy - Tag - Corentin LEGER</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 15 Apr 2023 11:00:59 -0400</lastBuildDate><atom:link href="http://example.org/tags/numpy/" rel="self" type="application/rss+xml" /><item>
     <title>Genetic Algorithm for sport&#39;s pools optimization</title>
     <link>http://example.org/posts/evoopt/</link>

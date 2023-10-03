@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>UX - Tag - Personal Website</title>
+        <title>UX - Tag - Corentin LEGER</title>
         <link>http://example.org/tags/ux/</link>
-        <description>UX - Tag - Personal Website</description>
+        <description>UX - Tag - Corentin LEGER</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 02 Jan 2022 10:58:08 -0400</lastBuildDate><atom:link href="http://example.org/tags/ux/" rel="self" type="application/rss+xml" /><item>
     <title>Design of a mobile application &#39;Baroudeurs&#39;</title>
     <link>http://example.org/posts/baroudeur/</link>

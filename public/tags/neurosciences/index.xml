@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Neurosciences - Tag - Personal Website</title>
+        <title>Neurosciences - Tag - Corentin LEGER</title>
         <link>http://example.org/tags/neurosciences/</link>
-        <description>Neurosciences - Tag - Personal Website</description>
+        <description>Neurosciences - Tag - Corentin LEGER</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 09 May 2020 10:58:08 -0400</lastBuildDate><atom:link href="http://example.org/tags/neurosciences/" rel="self" type="application/rss+xml" /><item>
     <title>Stress and addiction </title>
     <link>http://example.org/posts/stress/</link>
