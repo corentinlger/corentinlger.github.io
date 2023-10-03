@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Genetic Algorithms - Tag - Personal Website</title>
+        <link>http://example.org/tags/genetic-algorithms/</link>
+        <description>Genetic Algorithms - Tag - Personal Website</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 15 Apr 2023 11:00:59 -0400</lastBuildDate><atom:link href="http://example.org/tags/genetic-algorithms/" rel="self" type="application/rss+xml" /><item>
+    <title>Genetic Algorithm for sport&#39;s pools optimization</title>
+    <link>http://example.org/posts/evoopt/</link>
+    <pubDate>Sat, 15 Apr 2023 11:00:59 -0400</pubDate>
+    <author>Corentin</author>
+    <guid>http://example.org/posts/evoopt/</guid>
+    <description><![CDATA[As a volleyball player who frequently travels to play against teams in distant cities, I became curious about how sports pools are optimized to ensure fair and reasonable travel times for teams in the same category. To explore this further and delve into evolutionary algorithms, I embarked on a project to create a custom genetic algorithm using NumPy.
+The custom genetic algorithm is designed to improve the current distribution of cities in sports pools.]]></description>
+</item>
+</channel>
+</rss>
