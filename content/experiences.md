@@ -10,7 +10,7 @@ description:
 Bordeaux, France\
 03-2023 - 09-2023
 
-- We study how neural structures, such as Reservoirs, can adapt at an evolutionary-scale for Reinforcement Learning problems. The objective is to enhance the adaptability of RL agents equipped with these structures to their environments at a developmental scale. We tested if our architecture can help solving partially observable tasks, but also 3D motor tasks and finally if evolved Reservoirs can generalize and adapt ton new unseen environments.
+- I was involved in a research project named "Evolving Reservoirs for Meta Reinforcement-Learning". With researchers, we studied how neural structures could adapt at an evolutionary scale, in order to enhance the adaptability of RL agents to their environment at a developmental scale. We tested if our method can help solving partially observable tasks, complex 3D motors tasks and finally, if evolved neural structures could generalize and enable agents to adapt to unseen environments.
 - We are currently writing a scientific paper to present our work.
 
 

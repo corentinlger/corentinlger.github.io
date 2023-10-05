@@ -16,12 +16,13 @@ Bordeaux, France\
 - Research algorithms
 
 ### Laval University
-**Exchange semester program**\
+**Exchange semester program - Data Science**\
 Québec, Canada\
 2022 - 2022
 
-- Data Science
+- Big Data Analysis
 - Cognitive Sciences
+- Financial Engineering
 
 ### ENSC - BORDEAUX INP
 **French Engineer's degree - Cognitique**\
@@ -30,7 +31,7 @@ Bordeaux, France\
 
 - AI & Data Science 
 - Computer Science
-- Statistics and Signal Processing 
+- Statistics and Probabilities
 - Cognitique Engineering (UX, Human Factor...)
 
 ### CPBx 
