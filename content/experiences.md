@@ -5,7 +5,7 @@ draft: false
 description: 
 ---
 
-### Deep Reinforcement Learning Research Intern
+### AI Research Intern
 **Inria - Flowers & Mnemosyne teams**\
 Bordeaux, France\
 03-2023 - 09-2023
