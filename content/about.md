@@ -12,3 +12,7 @@ During this school, my curiosity led me to do an exchange semester in Canada, wh
 I’m now a research intern at Inria between Flowers and Mnemosyne teams, where I study the combination of meta Reinforcement Learning, evolutionary algorithms and Reservoir Computing.
 
 Among a lot of other things, I also love sport, and play volley-ball at a national level.
+
+### My Resume 
+
+You can download my resume [here](/resume.pdf)
