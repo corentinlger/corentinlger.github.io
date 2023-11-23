@@ -6,7 +6,7 @@ description:
 ---
 
 ### ENSEIRB-MATMECA - BORDEAUX INP
-**Exchange year program - Artificial Intelligence**\
+**Exchange semester program - Artificial Intelligence**\
 Bordeaux, France\
 2022 - 2023
 
