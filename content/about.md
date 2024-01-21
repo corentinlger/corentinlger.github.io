@@ -13,6 +13,16 @@ I’m now a research intern at Inria between Flowers and Mnemosyne teams, where 
 
 Among a lot of other things, I also love sport, and play volley-ball at a national level.
 
-### My Resume 
+### Resume 
 
-You can download my resume [here](/resume.pdf)
+You can download my resume [here](/resume.pdf) <br />
+
+
+### Contact 
+
+Feel free to get in touch if you have any questions, projects or collaborations in mind !
+
+- LinkedIn : [corentin-l](https://www.linkedin.com/in/corentin-l/)
+- Email : coleger@ensc.fr
+- GitHub : [corentinlger](https://github.com/corentinlger)
+

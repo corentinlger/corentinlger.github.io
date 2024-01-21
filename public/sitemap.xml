@@ -3,19 +3,18 @@
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
             <loc>http://example.org/</loc><lastmod>2023-11-17T11:00:59-04:00</lastmod></url><url>
-            <loc>http://example.org/tags/genetic-algorithms/</loc><lastmod>2023-11-17T11:00:59-04:00</lastmod></url><url>
             <loc>http://example.org/posts/ebiose/</loc><lastmod>2023-11-17T11:00:59-04:00</lastmod></url><url>
+            <loc>http://example.org/tags/genetic-algorithms/</loc><lastmod>2023-11-17T11:00:59-04:00</lastmod></url><url>
             <loc>http://example.org/tags/llms/</loc><lastmod>2023-11-17T11:00:59-04:00</lastmod></url><url>
             <loc>http://example.org/posts/</loc><lastmod>2023-11-17T11:00:59-04:00</lastmod></url><url>
             <loc>http://example.org/tags/python/</loc><lastmod>2023-11-17T11:00:59-04:00</lastmod></url><url>
             <loc>http://example.org/tags/</loc><lastmod>2023-11-17T11:00:59-04:00</lastmod></url><url>
             <loc>http://example.org/experiences/</loc><lastmod>2023-09-24T22:44:26&#43;02:00</lastmod></url><url>
             <loc>http://example.org/education/</loc><lastmod>2023-09-24T22:44:16&#43;02:00</lastmod></url><url>
-            <loc>http://example.org/contact/</loc><lastmod>2023-09-24T22:44:10&#43;02:00</lastmod></url><url>
             <loc>http://example.org/about/</loc><lastmod>2023-09-24T22:37:50&#43;02:00</lastmod></url><url>
             <loc>http://example.org/tags/deep-learning/</loc><lastmod>2023-09-12T11:00:59-04:00</lastmod></url><url>
             <loc>http://example.org/tags/open-source/</loc><lastmod>2023-09-12T11:00:59-04:00</lastmod></url><url>
-            <loc>http://example.org/posts/opensource/</loc><lastmod>2023-09-12T11:00:59-04:00</lastmod></url><url>
+            <loc>http://example.org/posts/parallezliationtutorial/</loc><lastmod>2023-09-12T11:00:59-04:00</lastmod></url><url>
             <loc>http://example.org/tags/reinforcement-learning/</loc><lastmod>2023-07-12T11:00:59-04:00</lastmod></url><url>
             <loc>http://example.org/posts/risingsun/</loc><lastmod>2023-07-12T11:00:59-04:00</lastmod></url><url>
             <loc>http://example.org/posts/evoopt/</loc><lastmod>2023-04-15T11:00:59-04:00</lastmod></url><url>
