@@ -9,8 +9,7 @@
     <pubDate>Fri, 17 Nov 2023 11:00:59 -0400</pubDate>
     <author>Corentin</author>
     <guid>http://example.org/posts/ebiose/</guid>
-    <description><![CDATA[Participated to an open source project called Ebiose during a 2 days hackathon, focusing on improving the performance of language based agents (made of a LLM and a prompt) on several tasks with a team of 4. We designed a system where multiple agents collaborate to solve a problem, and evolved their prompts thanks to an evolutionary algorithm to increase their efficiency.
-Initial testing demonstrated promising results, with performance improvements reaching a factor of approximately 2 on a few mathematical questions.]]></description>
+    <description><![CDATA[Introduction Participated to a project called Ebiose during a 2 days hackathon with a team of 4 people. It focuses on a multi-language-based-agent system to solve tasks. In this system, agents are composed of LLM (e.g. GPT-3.5) coupled with a specific prompt. The structure of the multi-agent system followes a predetermined sequence, where one agent answers a question, another verifies the answer, and a final agent synthesizes both responses. This collaboration is inspired by the Autogen Framework, emphasizing coordinated efforts among agents.]]></description>
 </item>
 <item>
     <title>Parallelization computation tutorial</title>
@@ -18,7 +17,8 @@ Initial testing demonstrated promising results, with performance improvements re
     <pubDate>Tue, 12 Sep 2023 11:00:59 -0400</pubDate>
     <author>Corentin</author>
     <guid>http://example.org/posts/parallezliationtutorial/</guid>
-    <description><![CDATA[Created a turorial for parallelized hyper parameter search using Optuna, joblib and slurm, for the ReservoirPy machine learning library.]]></description>
+    <description><![CDATA[Created an open source turorial for hyper parameter search using Optuna for the ReservoirPy machine learning library.
+First, it explains how to search hyper parameters on your machine sequentially, but also in a parallelized manner using the joblib library. Then, it demonsrates how to perform the same search at a larger scale, by using slurm files to parallelize it on a remote cluster of CPUs.]]></description>
 </item>
 <item>
     <title>Canadian Elections</title>

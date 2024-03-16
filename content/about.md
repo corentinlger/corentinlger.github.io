@@ -5,11 +5,11 @@ draft: false
 description: 
 ---
 
-Hello I'm Corentin, an AI research engineer particularly interested in Machine Learning, Reinforcement Learning and Cognitive Sciences. I graduated from ENSC, a French engineering school focused on the synergy between cognitive and computer sciences. My interest in these fields was originally sparked by a high school project supervised by a neuroscience researcher.
+Hi, I'm Corentin, an AI Research Engineer with a keen interest in the intersection of cognitive sciences, evolution and artificial intelligence. My core focus centers on Deep Learning, Reinforcement Learning and Evolutionary  Computation. 
 
-During this school, my curiosity led me to do an exchange semester in Canada, where I discovered with more depth artificial intelligence and data science, and decided to do a data science internship the same year. I did another exchange the next semester at ENSEIRB MATMECA to specialize in artificial intelligence, which allowed me to get my first research experience. This project aimed to explore the association of Reinforcement Learning and symbolic AI with Inria PhDs and researchers.
+I graduated from ENSC, a French engineering school specializing in cognitive and computer sciences. During my studies, I pursued an exchange semester in Canada, delving deeper into artificial intelligence and data science. It led me to do a 4 months data science internship at Connectiv-IT. Subsequently, I completed another exchange at ENSEIRB MATMECA to specialize in AI, gaining valuable research experience exploring Reinforcement Learning and symbolic AI in collaboration with Inria researchers. After that, I became a research intern at Inria, where I explored the combination of Meta Reinforcement Learning, Evolutionary Algorithms, and Reservoir Computing.
 
-I’m now a research intern at Inria between Flowers and Mnemosyne teams, where I study the combination of meta Reinforcement Learning, evolutionary algorithms and Reservoir Computing.
+Curently, I am a Research Engineer at Inria in the Flowers team, where I develop a a large scale multi-agents simulator for research and teaching in Artificial Intelligence / Artificial Life. 
 
 Among a lot of other things, I also love sport, and play volley-ball at a national level.
 

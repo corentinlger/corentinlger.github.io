@@ -5,13 +5,21 @@ draft: false
 description: 
 ---
 
+
+### Research Engineer
+**Inria - Flowers team**\
+Bordeaux, France\
+01-2024 - Now
+
+- Currently developping a large scale multi-agents simulator for both research and teaching in Artificial Intelligence / Artificial Life.
+
 ### AI Research Intern
 **Inria - Flowers & Mnemosyne teams**\
 Bordeaux, France\
 03-2023 - 09-2023
 
-- I was involved in a research project named "Evolving Reservoirs for Meta Reinforcement-Learning". With researchers, we studied how neural structures could adapt at an evolutionary scale, in order to enhance the adaptability of RL agents to their environment at a developmental scale. We tested if our method can help solving partially observable tasks, complex 3D motors tasks and finally, if evolved neural structures could generalize and enable agents to adapt to unseen environments.
-- We are currently writing a scientific paper to present our work.
+- Working on "Evolving Reservoirs for Meta Reinforcement-Learning". We studied how neural structures could adapt at an evolutionary scale, in order to enhance the adaptability of RL agents to their environment at a developmental scale. We tested if our method can help solving partially observable tasks, complex 3D motors tasks and finally, if evolved neural structures could generalize and enable agents to adapt to unseen environments.
+- [paper](https://arxiv.org/abs/2312.06695) - [code](https://github.com/corentinlger/ER-MRL)
 
 
 ### Data Science Intern

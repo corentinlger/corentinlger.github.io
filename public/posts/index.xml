@@ -9,8 +9,7 @@
     <pubDate>Fri, 17 Nov 2023 11:00:59 -0400</pubDate>
     <author>Corentin</author>
     <guid>http://example.org/posts/ebiose/</guid>
-    <description><![CDATA[Participated to an open source project called Ebiose during a 2 days hackathon, focusing on improving the performance of language based agents (made of a LLM and a prompt) on several tasks with a team of 4. We designed a system where multiple agents collaborate to solve a problem, and evolved their prompts thanks to an evolutionary algorithm to increase their efficiency.
-Initial testing demonstrated promising results, with performance improvements reaching a factor of approximately 2 on a few mathematical questions.]]></description>
+    <description><![CDATA[Introduction Participated to a project called Ebiose during a 2 days hackathon with a team of 4 people. It focuses on a multi-language-based-agent system to solve tasks. In this system, agents are composed of LLM (e.g. GPT-3.5) coupled with a specific prompt. The structure of the multi-agent system followes a predetermined sequence, where one agent answers a question, another verifies the answer, and a final agent synthesizes both responses. This collaboration is inspired by the Autogen Framework, emphasizing coordinated efforts among agents.]]></description>
 </item>
 <item>
     <title>Parallelization computation tutorial</title>
@@ -18,7 +17,8 @@ Initial testing demonstrated promising results, with performance improvements re
     <pubDate>Tue, 12 Sep 2023 11:00:59 -0400</pubDate>
     <author>Corentin</author>
     <guid>http://example.org/posts/parallezliationtutorial/</guid>
-    <description><![CDATA[Created a turorial for parallelized hyper parameter search using Optuna, joblib and slurm, for the ReservoirPy machine learning library.]]></description>
+    <description><![CDATA[Created an open source turorial for hyper parameter search using Optuna for the ReservoirPy machine learning library.
+First, it explains how to search hyper parameters on your machine sequentially, but also in a parallelized manner using the joblib library. Then, it demonsrates how to perform the same search at a larger scale, by using slurm files to parallelize it on a remote cluster of CPUs.]]></description>
 </item>
 <item>
     <title>Rising Sun</title>
@@ -39,7 +39,7 @@ The next step will be to add multi-agents training to the project. Then, it will
 The custom genetic algorithm is designed to improve the current distribution of cities in sports pools.]]></description>
 </item>
 <item>
-    <title>Inria Research Project - Symbolic Reinforcement Learning</title>
+    <title>Symbolic Reinforcement Learning</title>
     <link>http://example.org/posts/symbolicrl/</link>
     <pubDate>Mon, 16 Jan 2023 11:00:59 -0400</pubDate>
     <author>Corentin</author>
@@ -77,7 +77,8 @@ We used real data and applied standard Machine Learning techniques, such as Rand
     <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
     <author>Corentin</author>
     <guid>http://example.org/posts/stress/</guid>
-    <description><![CDATA[This neuroscience and psychology project examines the relationship between stress and addiction. The focus is on providing a concise and comprehensive understanding of how these two phenomena interact. The article will delve into the mechanisms of stress, followed by an exploration of addiction, and finally, it will synthesize their interplay. By doing so, this work aims to contribute to the existing knowledge in neuroscience and psychology, offering insights into potential interventions and treatments.]]></description>
+    <description><![CDATA[Even if we were studying mathematics and physics, we decided with a classmate to work on this neuroscience and psychology project, which examines the relationship between stress and addiction. The focus is on providing a concise and comprehensive understanding of how these two phenomena interact. The article (written in french) delves into the mechanisms of stress, followed by an exploration of addiction, and finally, synthesizes their interplay between both.
+Paper]]></description>
 </item>
 </channel>
 </rss>
