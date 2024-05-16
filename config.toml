@@ -12,12 +12,13 @@ theme = 'LoveIt'
 
 [params.home]
   [params.home.profile]
-    title = "AI Research Engineer"
-    subtitle = "Welcome to my website ! "
+    title = "Research Engineer in the Flowers team @Inria"
+    subtitle = "Hi, welcome on my website (:"
   
 [params.social]
     github = "corentinlger"
     linkedin = "corentin-l"
+    Twitter = "corentinlger"
 
 
 [menu]
@@ -27,19 +28,9 @@ theme = 'LoveIt'
     weight = 1
 
   [[menu.main]]
-    name = "Education"
-    url = "/education"
-    weight = 2
-
-  [[menu.main]]
-    name = "Experiences"
-    url = "/experiences"
-    weight = 3
-
-  [[menu.main]]
     name = "Projects"
     url = "/posts/"
-    weight = 4
+    weight = 2
 
 [params.page]
   [params.page.share]

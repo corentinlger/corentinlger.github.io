@@ -1,7 +1,7 @@
 ---
 date: 2023-11-17T11:00:59-04:00
 tags: ['LLMs', 'Python', 'Genetic Algorithms']
-title: "Ebiose"
+title: "Hackathon: Ebiose"
 author: "Corentin"
 ---
 

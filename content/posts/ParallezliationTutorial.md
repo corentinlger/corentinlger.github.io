@@ -1,7 +1,7 @@
 ---
 date: 2023-09-12T11:00:59-04:00
 tags: ['Open Source', 'Python', 'Deep Learning']
-title: "Parallelization computation tutorial"
+title: "Software: Parallelization computation tutorial"
 author: "Corentin"
 ---
 

@@ -3,8 +3,26 @@
         <title>All Projects - Corentin LEGER</title>
         <link>http://example.org/posts/</link>
         <description>All Projects | Corentin LEGER</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 17 Nov 2023 11:00:59 -0400</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Ebiose</title>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 12 Mar 2024 11:00:59 -0400</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Research: Cultural evolution in populations of Large Language Models</title>
+    <link>http://example.org/posts/llm_culture/</link>
+    <pubDate>Tue, 12 Mar 2024 11:00:59 -0400</pubDate>
+    <author>Corentin</author>
+    <guid>http://example.org/posts/llm_culture/</guid>
+    <description><![CDATA[Research in cultural evolution aims at providing causal explanations for the change of culture over time. Over the past decades, this field has generated an important body of knowledge, using experimental, historical, and computational methods. While computational models have been very successful at generating testable hypotheses about the effects of several factors, such as population structure or transmission biases, some phenomena have so far been more complex to capture using agent-based and formal models.]]></description>
+</item>
+<item>
+    <title>Research: Evolving Reservoirs for Meta Reinforcement Learning</title>
+    <link>http://example.org/posts/er_mrl/</link>
+    <pubDate>Tue, 12 Dec 2023 11:00:59 -0400</pubDate>
+    <author>Corentin</author>
+    <guid>http://example.org/posts/er_mrl/</guid>
+    <description><![CDATA[Paper presented at EvoStar 2024 (Oral).
+Abstract Animals often demonstrate a remarkable ability to adapt to their environments during their lifetime. They do so partly due to the evolution of morphological and neural structures. These structures capture features of environments shared between generations to bias and speed up lifetime learning.
+In this work, we propose a computational model for studying a mechanism that can enable such a process. We adopt a computational framework based on meta reinforcement learning as a model of the interplay between evolution and development.]]></description>
+</item>
+<item>
+    <title>Hackathon: Ebiose</title>
     <link>http://example.org/posts/ebiose/</link>
     <pubDate>Fri, 17 Nov 2023 11:00:59 -0400</pubDate>
     <author>Corentin</author>
@@ -12,7 +30,7 @@
     <description><![CDATA[Introduction Participated to a project called Ebiose during a 2 days hackathon with a team of 4 people. It focuses on a multi-language-based-agent system to solve tasks. In this system, agents are composed of LLM (e.g. GPT-3.5) coupled with a specific prompt. The structure of the multi-agent system followes a predetermined sequence, where one agent answers a question, another verifies the answer, and a final agent synthesizes both responses. This collaboration is inspired by the Autogen Framework, emphasizing coordinated efforts among agents.]]></description>
 </item>
 <item>
-    <title>Parallelization computation tutorial</title>
+    <title>Software: Parallelization computation tutorial</title>
     <link>http://example.org/posts/parallezliationtutorial/</link>
     <pubDate>Tue, 12 Sep 2023 11:00:59 -0400</pubDate>
     <author>Corentin</author>
@@ -39,7 +57,7 @@ The next step will be to add multi-agents training to the project. Then, it will
 The custom genetic algorithm is designed to improve the current distribution of cities in sports pools.]]></description>
 </item>
 <item>
-    <title>Symbolic Reinforcement Learning</title>
+    <title>Research: Symbolic Reinforcement Learning</title>
     <link>http://example.org/posts/symbolicrl/</link>
     <pubDate>Mon, 16 Jan 2023 11:00:59 -0400</pubDate>
     <author>Corentin</author>
@@ -70,15 +88,6 @@ We used real data and applied standard Machine Learning techniques, such as Rand
     <author>Corentin</author>
     <guid>http://example.org/posts/baroudeur/</guid>
     <description><![CDATA[This is a transdisciplinary project that ended up with the creation of a mobile application called “Baroudeurs”. The goal is to help people discover cities in a innovative manner. Indeed, Baroudeurs doesn&rsquo;t give you a particular itinerary to places or monuments, but it lets you discover a city and its misteries. The idea is to get inspiration from video games to develop the application, to create an experience based on discovery, curiosity the amazement to find a new places and learn its history.]]></description>
-</item>
-<item>
-    <title>Stress and addiction </title>
-    <link>http://example.org/posts/stress/</link>
-    <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
-    <author>Corentin</author>
-    <guid>http://example.org/posts/stress/</guid>
-    <description><![CDATA[Even if we were studying mathematics and physics, we decided with a classmate to work on this neuroscience and psychology project, which examines the relationship between stress and addiction. The focus is on providing a concise and comprehensive understanding of how these two phenomena interact. The article (written in french) delves into the mechanisms of stress, followed by an exploration of addiction, and finally, synthesizes their interplay between both.
-Paper]]></description>
 </item>
 </channel>
 </rss>

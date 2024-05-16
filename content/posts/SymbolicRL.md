@@ -1,7 +1,7 @@
 ---
 date: 2023-01-16T11:00:59-04:00
 tags: ['Reinforcement learning', 'Symbolic AI']
-title: "Symbolic Reinforcement Learning"
+title: "Research: Symbolic Reinforcement Learning"
 author: "Corentin"
 ---
 

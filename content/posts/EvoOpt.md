@@ -8,6 +8,9 @@ As a volleyball player who frequently travels to play against teams in distant c
 
 The custom genetic algorithm is designed to improve the current distribution of cities in sports pools. The algorithm is implemented as a Python class, making it easy to use. All you need to do is provide a list of cities that you want to allocate in the pools, and the algorithm takes care of the rest.
 
+
+![pools](/final_pools.png)
+
 To showcase the algorithm's functionality and usage, I've included an example in a Jupyter Notebook file, which demonstrates how to utilize the genetic algorithm with different city lists.
 
 [Code](https://github.com/corentinlger/Evolutionary_Sport_Pools_Optimizer)
