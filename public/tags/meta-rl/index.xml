@@ -7,7 +7,7 @@
     <title>Research: Evolving Reservoirs for Meta Reinforcement Learning</title>
     <link>http://example.org/posts/er_mrl/</link>
     <pubDate>Tue, 12 Dec 2023 11:00:59 -0400</pubDate>
-    <author>Corentin</author>
+    <author>Corentin Léger, Gautier Hamon, Eleni Nisioti, Xavier Hinaut, Clément Moulin-Frier</author>
     <guid>http://example.org/posts/er_mrl/</guid>
     <description><![CDATA[Paper presented at EvoStar 2024 (Oral).
 Abstract Animals often demonstrate a remarkable ability to adapt to their environments during their lifetime. They do so partly due to the evolution of morphological and neural structures. These structures capture features of environments shared between generations to bias and speed up lifetime learning.

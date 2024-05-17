@@ -2,8 +2,11 @@
 date: 2024-03-12T11:00:59-04:00
 tags: ['LLMs', 'Cultural Evolution']
 title: "Research: Cultural evolution in populations of Large Language Models"
-author: "Corentin"
+author: "Jérémy Perez, Corentin Léger, Marcela Ovando-Tellez, Chris Foulon, Joan Dussauld, Pierre-Yves Oudeyer, Clément Moulin-Frier"
 ---
+Arxiv preprint. We are currently working on the paper to submit it to a conference.
+
+### Abstract
 
 Research in cultural evolution aims at providing causal explanations for the change of culture over time. Over the past decades, this field has generated an important body of knowledge, using experimental, historical, and computational methods. While computational models have been very successful at generating testable hypotheses about the effects of several factors, such as population structure or transmission biases, some phenomena have so far been more complex to capture using agent-based and formal models. This is in particular the case for the effect of the transformations of social information induced by evolved cognitive mechanisms. 
 
