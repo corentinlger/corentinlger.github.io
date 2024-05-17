@@ -16,7 +16,7 @@ We here propose that leveraging the capacity of Large Language Models (LLMs) to 
 
 The software we developed for conducting these simulations is open-source and features an intuitive user-interface, which we hope will help to build bridges between the fields of cultural evolution and generative artificial intelligence. 
 
-
+    
 [paper](https://arxiv.org/abs/2403.08882) - [code](https://github.com/jeremyperez2/LLM-Culture)
 
  
