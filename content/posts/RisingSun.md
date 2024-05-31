@@ -1,7 +1,7 @@
 ---
 date: 2023-07-12T11:00:59-04:00
 tags: ['Reinforcement Learning', 'Deep Learning']
-title: "Rising Sun"
+title: "Software: Rising Sun"
 author: "Corentin"
 ---
 
