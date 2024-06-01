@@ -20,6 +20,30 @@
     <description><![CDATA[]]></description>
 </item>
 <item>
+    <title>Jax</title>
+    <link>http://example.org/tags/jax/</link>
+    <pubDate>Tue, 30 Jan 2024 11:00:59 -0400</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/tags/jax/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Multi-Agent Simulations</title>
+    <link>http://example.org/tags/multi-agent-simulations/</link>
+    <pubDate>Tue, 30 Jan 2024 11:00:59 -0400</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/tags/multi-agent-simulations/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Network Programming</title>
+    <link>http://example.org/tags/network-programming/</link>
+    <pubDate>Tue, 30 Jan 2024 11:00:59 -0400</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/tags/network-programming/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>Evolutionary Computation</title>
     <link>http://example.org/tags/evolutionary-computation/</link>
     <pubDate>Tue, 12 Dec 2023 11:00:59 -0400</pubDate>
@@ -57,30 +81,6 @@
     <pubDate>Fri, 17 Nov 2023 11:00:59 -0400</pubDate>
     <author>Author</author>
     <guid>http://example.org/tags/python/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Deep Learning</title>
-    <link>http://example.org/tags/deep-learning/</link>
-    <pubDate>Tue, 12 Sep 2023 11:00:59 -0400</pubDate>
-    <author>Author</author>
-    <guid>http://example.org/tags/deep-learning/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Open Source</title>
-    <link>http://example.org/tags/open-source/</link>
-    <pubDate>Tue, 12 Sep 2023 11:00:59 -0400</pubDate>
-    <author>Author</author>
-    <guid>http://example.org/tags/open-source/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Reinforcement Learning</title>
-    <link>http://example.org/tags/reinforcement-learning/</link>
-    <pubDate>Wed, 12 Jul 2023 11:00:59 -0400</pubDate>
-    <author>Author</author>
-    <guid>http://example.org/tags/reinforcement-learning/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>

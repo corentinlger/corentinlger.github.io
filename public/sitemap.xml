@@ -8,6 +8,10 @@
             <loc>http://example.org/posts/</loc><lastmod>2024-03-12T11:00:59-04:00</lastmod></url><url>
             <loc>http://example.org/posts/llm_culture/</loc><lastmod>2024-03-12T11:00:59-04:00</lastmod></url><url>
             <loc>http://example.org/tags/</loc><lastmod>2024-03-12T11:00:59-04:00</lastmod></url><url>
+            <loc>http://example.org/tags/jax/</loc><lastmod>2024-01-30T11:00:59-04:00</lastmod></url><url>
+            <loc>http://example.org/tags/multi-agent-simulations/</loc><lastmod>2024-01-30T11:00:59-04:00</lastmod></url><url>
+            <loc>http://example.org/tags/network-programming/</loc><lastmod>2024-01-30T11:00:59-04:00</lastmod></url><url>
+            <loc>http://example.org/posts/simulationsandbox/</loc><lastmod>2024-01-30T11:00:59-04:00</lastmod></url><url>
             <loc>http://example.org/tags/evolutionary-computation/</loc><lastmod>2023-12-12T11:00:59-04:00</lastmod></url><url>
             <loc>http://example.org/tags/meta-rl/</loc><lastmod>2023-12-12T11:00:59-04:00</lastmod></url><url>
             <loc>http://example.org/posts/er_mrl/</loc><lastmod>2023-12-12T11:00:59-04:00</lastmod></url><url>

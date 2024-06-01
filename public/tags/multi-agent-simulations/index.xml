@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Multi-Agent Simulations - Tag - Corentin LEGER</title>
+        <link>http://example.org/tags/multi-agent-simulations/</link>
+        <description>Multi-Agent Simulations - Tag - Corentin LEGER</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 30 Jan 2024 11:00:59 -0400</lastBuildDate><atom:link href="http://example.org/tags/multi-agent-simulations/" rel="self" type="application/rss+xml" /><item>
+    <title>Software: Simulation Sandbox</title>
+    <link>http://example.org/posts/simulationsandbox/</link>
+    <pubDate>Tue, 30 Jan 2024 11:00:59 -0400</pubDate>
+    <author>Corentin</author>
+    <guid>http://example.org/posts/simulationsandbox/</guid>
+    <description><![CDATA[A small repository to implement multi-agents simulations in Jax. It allows you to run simulations on a server and visualize or interact with them from remote clients (e.g Jupyter notebooks).
+Code]]></description>
+</item>
+</channel>
+</rss>

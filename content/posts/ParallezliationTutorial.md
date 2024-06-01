@@ -1,7 +1,7 @@
 ---
 date: 2023-09-12T11:00:59-04:00
 tags: ['Open Source', 'Python', 'Deep Learning']
-title: "Software: Parallelization computation tutorial"
+title: "Software: Parallelized Hyper Parameter Search tutorial"
 author: "Corentin"
 ---
 
