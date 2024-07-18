@@ -7,9 +7,9 @@
     <title>Research: Evolving Reservoirs for Meta Reinforcement Learning</title>
     <link>http://example.org/posts/er_mrl/</link>
     <pubDate>Tue, 12 Dec 2023 11:00:59 -0400</pubDate>
-    <author>Corentin Léger, Gautier Hamon, Eleni Nisioti, Xavier Hinaut, Clément Moulin-Frier</author>
+    <author>Corentin Léger*, Gautier Hamon*, Eleni Nisioti, Xavier Hinaut, Clément Moulin-Frier</author>
     <guid>http://example.org/posts/er_mrl/</guid>
-    <description><![CDATA[Paper presented at EvoStar 2024 (Oral).
+    <description><![CDATA[Paper presented at EvoStar 2024 (Long Talk).
 Abstract Animals often demonstrate a remarkable ability to adapt to their environments during their lifetime. They do so partly due to the evolution of morphological and neural structures. These structures capture features of environments shared between generations to bias and speed up lifetime learning.
 In this work, we propose a computational model for studying a mechanism that can enable such a process. We adopt a computational framework based on meta reinforcement learning as a model of the interplay between evolution and development.]]></description>
 </item>

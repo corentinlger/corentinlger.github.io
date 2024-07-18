@@ -2,10 +2,10 @@
 date: 2023-12-12T11:00:59-04:00
 tags: ['Meta RL', 'Evolutionary Computation', 'Reservoir Computing']
 title: "Research: Evolving Reservoirs for Meta Reinforcement Learning"
-author: "Corentin Léger, Gautier Hamon, Eleni Nisioti, Xavier Hinaut, Clément Moulin-Frier"
+author: "Corentin Léger*, Gautier Hamon*, Eleni Nisioti, Xavier Hinaut, Clément Moulin-Frier"
 ---
 
-Paper presented at [EvoStar 2024](https://www.evostar.org/2024/) (Oral).
+Paper presented at [EvoStar 2024](https://www.evostar.org/2024/) (Long Talk).
 
 ### Abstract
 

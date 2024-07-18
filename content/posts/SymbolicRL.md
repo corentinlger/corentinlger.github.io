@@ -5,7 +5,7 @@ title: "Research: Symbolic Reinforcement Learning"
 author: " Waris Radji, Corentin Léger, Lucas Bardisbanian"
 ---
 
-Paper published in [HAL-Inria](https://inria.hal.science/INRIA-RRRT/?lang=en) (Inria's Research or Technical Reports).
+Paper published in [HAL-Inria](https://inria.hal.science/INRIA-RRRT/?lang=en) (Inria's Research or Technical Reports) during a semester project in my last MSc year.
 
 ### Abstract
 

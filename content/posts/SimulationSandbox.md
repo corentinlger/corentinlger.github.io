@@ -4,7 +4,8 @@ tags: ['Multi-Agent Simulations', 'Jax', 'Network Programming']
 title: "Software: Simulation Sandbox"
 author: "Corentin"
 ---
-A small repository to implement multi-agents simulations in Jax. It allows you to run simulations on a server and visualize or interact with them from remote clients (e.g Jupyter notebooks).
+
+SimulationSandbox is a simple framework built with Jax and Socket that allows for real-time interaction between a simulation hosted on a server and multiple clients. It provides a simple interface for visualizing or interacting with the state of a hosted simulation from remote clients, such as jupyter notebooks.
 
 [Code](https://github.com/corentinlger/SimulationSandbox)
 

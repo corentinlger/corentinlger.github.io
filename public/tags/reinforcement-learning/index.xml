@@ -18,7 +18,7 @@ The next step will be to add multi-agents training to the project. Then, it will
     <pubDate>Mon, 16 Jan 2023 11:00:59 -0400</pubDate>
     <author> Waris Radji, Corentin Léger, Lucas Bardisbanian</author>
     <guid>http://example.org/posts/symbolicrl/</guid>
-    <description><![CDATA[Paper published in HAL-Inria (Inria&rsquo;s Research or Technical Reports).
+    <description><![CDATA[Paper published in HAL-Inria (Inria&rsquo;s Research or Technical Reports) during a semester project in my last MSc year.
 Abstract Modeling complex problems is a real issue in Reinforcement learning. The goal of this projet is to use a RL model, such as Q-learning, on symbolic data, where the knowledge of the problem would be stored, in the form of qualitative or numerical data (in JSON for example). Instead of only working with numerical data, we could link the data with a certain &rsquo;edition distance&rsquo; which permits to evaluate the proximity of 2 elements.]]></description>
 </item>
 </channel>

@@ -3,9 +3,18 @@
         <title>Corentin LEGER</title>
         <link>http://example.org/</link>
         <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 12 Mar 2024 11:00:59 -0400</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 05 Jul 2024 11:00:59 -0400</lastBuildDate>
             <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Research: When LLMs Play the Telephone Game: Cumulative Changes and Attractors in Iterated Cultural Transmissions</title>
+    <link>http://example.org/posts/telephonellm/</link>
+    <pubDate>Fri, 05 Jul 2024 11:00:59 -0400</pubDate>
+    <author>Jérémy Perez, Corentin Léger, Grgur Kovač, Cédric Colas, Gaia Molinaro, Maxime Derex, Pierre-Yves Oudeyer, Clément Moulin-Frier</author>
+    <guid>http://example.org/posts/telephonellm/</guid>
+    <description><![CDATA[Arxiv preprint (Under Review)
+Abstract As large language models (LLMs) start interacting with each other and generating an increasing amount of text online, it becomes crucial to better understand how information is transformed as it passes from one LLM to the next. While significant research has examined individual LLM behaviors, existing studies have largely overlooked the collective behaviors and information distortions arising from iterated LLM interactions. Small biases, negligible at the single output level, risk being amplified in iterated interactions, potentially leading the content to evolve towards attractor states.]]></description>
+</item>
+<item>
     <title>Research: Cultural evolution in populations of Large Language Models</title>
     <link>http://example.org/posts/llm_culture/</link>
     <pubDate>Tue, 12 Mar 2024 11:00:59 -0400</pubDate>
@@ -20,16 +29,16 @@ Abstract Research in cultural evolution aims at providing causal explanations fo
     <pubDate>Tue, 30 Jan 2024 11:00:59 -0400</pubDate>
     <author>Corentin</author>
     <guid>http://example.org/posts/simulationsandbox/</guid>
-    <description><![CDATA[A small repository to implement multi-agents simulations in Jax. It allows you to run simulations on a server and visualize or interact with them from remote clients (e.g Jupyter notebooks).
+    <description><![CDATA[SimulationSandbox is a simple framework built with Jax and Socket that allows for real-time interaction between a simulation hosted on a server and multiple clients. It provides a simple interface for visualizing or interacting with the state of a hosted simulation from remote clients, such as jupyter notebooks.
 Code]]></description>
 </item>
 <item>
     <title>Research: Evolving Reservoirs for Meta Reinforcement Learning</title>
     <link>http://example.org/posts/er_mrl/</link>
     <pubDate>Tue, 12 Dec 2023 11:00:59 -0400</pubDate>
-    <author>Corentin Léger, Gautier Hamon, Eleni Nisioti, Xavier Hinaut, Clément Moulin-Frier</author>
+    <author>Corentin Léger*, Gautier Hamon*, Eleni Nisioti, Xavier Hinaut, Clément Moulin-Frier</author>
     <guid>http://example.org/posts/er_mrl/</guid>
-    <description><![CDATA[Paper presented at EvoStar 2024 (Oral).
+    <description><![CDATA[Paper presented at EvoStar 2024 (Long Talk).
 Abstract Animals often demonstrate a remarkable ability to adapt to their environments during their lifetime. They do so partly due to the evolution of morphological and neural structures. These structures capture features of environments shared between generations to bias and speed up lifetime learning.
 In this work, we propose a computational model for studying a mechanism that can enable such a process. We adopt a computational framework based on meta reinforcement learning as a model of the interplay between evolution and development.]]></description>
 </item>
@@ -74,7 +83,7 @@ The custom genetic algorithm is designed to improve the current distribution of 
     <pubDate>Mon, 16 Jan 2023 11:00:59 -0400</pubDate>
     <author> Waris Radji, Corentin Léger, Lucas Bardisbanian</author>
     <guid>http://example.org/posts/symbolicrl/</guid>
-    <description><![CDATA[Paper published in HAL-Inria (Inria&rsquo;s Research or Technical Reports).
+    <description><![CDATA[Paper published in HAL-Inria (Inria&rsquo;s Research or Technical Reports) during a semester project in my last MSc year.
 Abstract Modeling complex problems is a real issue in Reinforcement learning. The goal of this projet is to use a RL model, such as Q-learning, on symbolic data, where the knowledge of the problem would be stored, in the form of qualitative or numerical data (in JSON for example). Instead of only working with numerical data, we could link the data with a certain &rsquo;edition distance&rsquo; which permits to evaluate the proximity of 2 elements.]]></description>
 </item>
 <item>
@@ -84,15 +93,6 @@ Abstract Modeling complex problems is a real issue in Reinforcement learning. Th
     <author>Corentin</author>
     <guid>http://example.org/posts/alzheimer/</guid>
     <description><![CDATA[This project focuses on medical imaging and computer vision. The goal is to develop a machine learning model able to detect the state of development of the Alzheimer disease, using 3D MRI data from real patients. In order to do so, we tried different approaches, including the &lsquo;2D epsilon&rsquo; method, which is the use of 2D Convolutionnal neural networks on 2D slices of the MRI, and also the use of 3D CNN.]]></description>
-</item>
-<item>
-    <title>Canadian Elections</title>
-    <link>http://example.org/posts/canadianelections/</link>
-    <pubDate>Fri, 15 Apr 2022 11:00:59 -0400</pubDate>
-    <author>Corentin</author>
-    <guid>http://example.org/posts/canadianelections/</guid>
-    <description><![CDATA[For my first Python and Machine Learning project, I worked on a Data Science assignment at Laval University. Our goal was to predict how Canadian citizens would vote in the 2019 elections.
-We used real data and applied standard Machine Learning techniques, such as Random Forest, with the Scikit-Learn library. In the end, we achieved an accuracy of 80% on our test dataset.]]></description>
 </item>
 </channel>
 </rss>
