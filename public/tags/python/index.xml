@@ -3,22 +3,23 @@
         <title>Python - Tag - Corentin LEGER</title>
         <link>http://example.org/tags/python/</link>
         <description>Python - Tag - Corentin LEGER</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 17 Nov 2023 11:00:59 -0400</lastBuildDate><atom:link href="http://example.org/tags/python/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 12 Jun 2024 11:00:59 -0400</lastBuildDate><atom:link href="http://example.org/tags/python/" rel="self" type="application/rss+xml" /><item>
+    <title>Software: Open Source Contributions</title>
+    <link>http://example.org/posts/opensource/</link>
+    <pubDate>Wed, 12 Jun 2024 11:00:59 -0400</pubDate>
+    <author>Corentin</author>
+    <guid>http://example.org/posts/opensource/</guid>
+    <description><![CDATA[Developed a turorial for hyper parameter search using Optuna in the ReservoirPy machine learning library. The tutorial covers sequential and parallelized hyperparameter search on local machines using the joblib package. It also demonstrates how to scale up this process by utilizing Slurm files to parallelize the search on remote clusters of CPUs.
+Contributed to the Stable-Baselines3 and Stable-Baselines3-Contrib Reinforcement Learning Libraries by fixing several minor bugs.
+You can explore more of my projects and contributions on my GitHub Profile.]]></description>
+</item>
+<item>
     <title>Hackathon: Ebiose</title>
     <link>http://example.org/posts/ebiose/</link>
     <pubDate>Fri, 17 Nov 2023 11:00:59 -0400</pubDate>
     <author>Corentin</author>
     <guid>http://example.org/posts/ebiose/</guid>
     <description><![CDATA[Introduction Participated to a project called Ebiose during a 2 days hackathon with a team of 4 people. It focuses on a multi-language-based-agent system to solve tasks. In this system, agents are composed of LLM (e.g. GPT-3.5) coupled with a specific prompt. The structure of the multi-agent system followes a predetermined sequence, where one agent answers a question, another verifies the answer, and a final agent synthesizes both responses. This collaboration is inspired by the Autogen Framework, emphasizing coordinated efforts among agents.]]></description>
-</item>
-<item>
-    <title>Software: Parallelized Hyper Parameter Search tutorial</title>
-    <link>http://example.org/posts/parallezliationtutorial/</link>
-    <pubDate>Tue, 12 Sep 2023 11:00:59 -0400</pubDate>
-    <author>Corentin</author>
-    <guid>http://example.org/posts/parallezliationtutorial/</guid>
-    <description><![CDATA[Created an open source turorial for hyper parameter search using Optuna for the ReservoirPy machine learning library.
-First, it explains how to search hyper parameters on your machine sequentially, but also in a parallelized manner using the joblib library. Then, it demonsrates how to perform the same search at a larger scale, by using slurm files to parallelize it on a remote cluster of CPUs.]]></description>
 </item>
 <item>
     <title>Canadian Elections</title>
