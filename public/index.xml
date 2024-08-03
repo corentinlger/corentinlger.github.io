@@ -20,9 +20,8 @@ Abstract As large language models (LLMs) start interacting with each other and g
     <pubDate>Wed, 12 Jun 2024 11:00:59 -0400</pubDate>
     <author>Corentin</author>
     <guid>http://example.org/posts/opensource/</guid>
-    <description><![CDATA[Developed a turorial for hyper parameter search using Optuna in the ReservoirPy machine learning library. The tutorial covers sequential and parallelized hyperparameter search on local machines using the joblib package. It also demonstrates how to scale up this process by utilizing Slurm files to parallelize the search on remote clusters of CPUs.
-Contributed to the Stable-Baselines3 and Stable-Baselines3-Contrib Reinforcement Learning Libraries by fixing several minor bugs.
-You can explore more of my projects and contributions on my GitHub Profile.]]></description>
+    <description><![CDATA[Developed the LLM-Culture library. This software enables simulating networks composed of LLMs agents, that can generate text over multiple generations based on their neighbors input, personnality and task. The project also provides tools for analyzing the resulting text dynamics and offers an user-friendly web interface, making it accessible to non-programmers.
+Developed a turorial for hyper parameter search using Optuna in the ReservoirPy machine learning library. The tutorial covers sequential and parallelized hyperparameter search on local machines using the joblib package.]]></description>
 </item>
 <item>
     <title>Research: Cultural evolution in populations of Large Language Models</title>
