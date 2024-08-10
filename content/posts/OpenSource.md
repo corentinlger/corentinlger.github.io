@@ -10,9 +10,6 @@ The project also provides tools for analyzing the resulting text dynamics and of
 
 - Developed a [turorial for hyper parameter search](https://github.com/reservoirpy/reservoirpy/tree/master/tutorials/4.a-Hyperparameter%20search%20with%20Optuna) using Optuna in the [ReservoirPy](https://github.com/reservoirpy/reservoirpy) machine learning library. The tutorial covers sequential and parallelized hyperparameter search on local machines using the joblib package. It also demonstrates how to scale up this process by utilizing [Slurm](https://slurm.schedmd.com/documentation.html) files to parallelize the search on remote clusters of CPUs.
 
+- Contributed to the development of [KanRL](https://github.com/riiswa/kanrl), a project studying the combination of Reinforcement Learning and Kolmogorov-Arnold Networks (KANs). I helped creating this [Hugging Face space](https://huggingface.co/spaces/riiswa/RL-Interpretable-Policy-via-Kolmogorov-Arnold-Network) to facilitate the interpretation of trained RL policies, and led experiments to compare the performance of simple Policy Gradient and PPO algorithms using both KANs and MLPs on [this branch](https://github.com/riiswa/kanrl/tree/ppo).
+
 - Contributed to the [Stable-Baselines3](https://github.com/DLR-RM/stable-baselines3) and [Stable-Baselines3-Contrib](https://github.com/Stable-Baselines-Team/stable-baselines3-contrib) Reinforcement Learning Libraries by fixing several minor bugs.
-
-- Contributed to the development of [KanRL](https://github.com/riiswa/kanrl), a project studying the combination of Reinforcement Learning and Kolmogorov-Arnold Networks (KANs).
-
-- You can explore more of my projects and contributions on [my GitHub Profile](https://github.com/corentinlger).
-

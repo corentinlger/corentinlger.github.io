@@ -18,7 +18,7 @@ scale, we employ these evolved reservoirs to facilitate the learning of a behavi
 
 We evaluate our approach on several 2D and 3D simulated environments. Our results show that the evolution of reservoirs can improve the learning of diverse challenging tasks. We study in particular three hypotheses: the use of an architecture combining reservoirs and reinforcement learning could enable (1) solving tasks with partial observability, (2) generating oscillatory dynamics that facilitate the learning of locomotion tasks, and (3) facilitating the generalization of learned behaviors to new tasks unknown during the evolution phase
 
-[paper](https://arxiv.org/abs/2312.06695) - [code](https://github.com/corentinlger/ER-MRL)
+[Paper](https://arxiv.org/abs/2312.06695) - [Code](https://github.com/corentinlger/ER-MRL)
 
 
  

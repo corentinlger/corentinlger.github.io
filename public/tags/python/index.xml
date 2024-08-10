@@ -20,14 +20,5 @@ Developed a turorial for hyper parameter search using Optuna in the ReservoirPy 
     <guid>http://example.org/posts/ebiose/</guid>
     <description><![CDATA[Introduction Participated to a project called Ebiose during a 2 days hackathon with a team of 4 people. It focuses on a multi-language-based-agent system to solve tasks. In this system, agents are composed of LLM (e.g. GPT-3.5) coupled with a specific prompt. The structure of the multi-agent system followes a predetermined sequence, where one agent answers a question, another verifies the answer, and a final agent synthesizes both responses. This collaboration is inspired by the Autogen Framework, emphasizing coordinated efforts among agents.]]></description>
 </item>
-<item>
-    <title>Canadian Elections</title>
-    <link>http://example.org/posts/canadianelections/</link>
-    <pubDate>Fri, 15 Apr 2022 11:00:59 -0400</pubDate>
-    <author>Corentin</author>
-    <guid>http://example.org/posts/canadianelections/</guid>
-    <description><![CDATA[For my first Python and Machine Learning project, I worked on a Data Science assignment at Laval University. Our goal was to predict how Canadian citizens would vote in the 2019 elections.
-We used real data and applied standard Machine Learning techniques, such as Random Forest, with the Scikit-Learn library. In the end, we achieved an accuracy of 80% on our test dataset.]]></description>
-</item>
 </channel>
 </rss>

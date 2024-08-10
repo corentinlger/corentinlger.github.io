@@ -15,9 +15,8 @@ Research in cultural evolution aims at providing causal explanations for the cha
 We here propose that leveraging the capacity of Large Language Models (LLMs) to mimic human behavior may be fruitful to address this gap. On top of being an useful approximation of human cultural dynamics, multi-agents models featuring generative agents are also important to study for their own sake. Indeed, as artificial agents are bound to participate more and more to the evolution of culture, it is crucial to better understand the dynamics of machine-generated cultural evolution. We here present a framework for simulating cultural evolution in populations of LLMs, allowing the manipulation of variables known to be important in cultural evolution, such as network structure, personality, and the way social information is aggregated and transformed. 
 
 The software we developed for conducting these simulations is open-source and features an intuitive user-interface, which we hope will help to build bridges between the fields of cultural evolution and generative artificial intelligence. 
-
-    
-[paper](https://arxiv.org/abs/2403.08882) - [code](https://github.com/jeremyperez2/LLM-Culture)
+  
+[Paper](https://arxiv.org/abs/2403.08882) - [Code](https://github.com/jeremyperez2/LLM-Culture)
 
  
 

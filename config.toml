@@ -12,8 +12,8 @@ theme = 'LoveIt'
 
 [params.home]
   [params.home.profile]
-    title = "Research Engineer in the Flowers team @Inria"
-    subtitle = "Hi, welcome to my website (:"
+    title = "AI Research Engineer in the Flowers team @Inria"
+    subtitle = "Hi, welcome to my website! "
   
 [params.social]
     github = "corentinlger"
