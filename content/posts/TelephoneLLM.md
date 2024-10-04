@@ -15,7 +15,7 @@ As large language models (LLMs) start interacting with each other and generating
 For instance, we find that more open-ended instructions lead to stronger attraction effects compared to more constrained tasks. We also find that different text properties display different sensitivity to attraction effects, with toxicity leading to stronger attractors than length. These findings highlight the importance of accounting for multi-step transmission dynamics and represent a first step towards a more comprehensive understanding of LLM cultural dynamics. 
 
     
-[Paper](https://arxiv.org/abs/2407.04503) - [Website](https://sites.google.com/view/telephone-game-llm) - [Code](https://github.com/jeremyperez2/TelephoneGameLLM)
+[Paper](https://arxiv.org/abs/2407.04503) - [Website](https://sites.google.com/view/telephone-game-llm)
 
  
 
