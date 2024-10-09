@@ -3,8 +3,16 @@
         <title>All Projects - Corentin LEGER</title>
         <link>http://example.org/posts/</link>
         <description>All Projects | Corentin LEGER</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 05 Jul 2024 11:00:59 -0400</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Research: When LLMs Play the Telephone Game: Cumulative Changes and Attractors in Iterated Cultural Transmissions</title>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 30 Sep 2024 11:00:59 -0400</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Software: Vivarium</title>
+    <link>http://example.org/posts/vivarium/</link>
+    <pubDate>Mon, 30 Sep 2024 11:00:59 -0400</pubDate>
+    <author>Corentin</author>
+    <guid>http://example.org/posts/vivarium/</guid>
+    <description><![CDATA[I am currently working on a project named Vivarium that serves both research and teaching in AI. It&rsquo;s a software that allows launching custom particle based multi-agents simulations, using a physics engine built in Jax. The simulations can be hosted on a server, and interacted with in real time from a web interface or Jupyter Notebooks. The Notebook case aims to teach students how to program behaviors of simulated robots with Python !]]></description>
+</item>
+<item>
+    <title>Research: When LLMs Play the Telephone Game</title>
     <link>http://example.org/posts/telephonellm/</link>
     <pubDate>Fri, 05 Jul 2024 11:00:59 -0400</pubDate>
     <author>Jérémy Perez, Corentin Léger, Grgur Kovač, Cédric Colas, Gaia Molinaro, Maxime Derex, Pierre-Yves Oudeyer, Clément Moulin-Frier</author>
@@ -83,14 +91,6 @@ The custom genetic algorithm is designed to improve the current distribution of 
     <guid>http://example.org/posts/symbolicrl/</guid>
     <description><![CDATA[Paper published in HAL-Inria (Inria&rsquo;s Research or Technical Reports) during a semester project in my last MSc year.
 Abstract Modeling complex problems is a real issue in Reinforcement learning. The goal of this projet is to use a RL model, such as Q-learning, on symbolic data, where the knowledge of the problem would be stored, in the form of qualitative or numerical data (in JSON for example). Instead of only working with numerical data, we could link the data with a certain &rsquo;edition distance&rsquo; which permits to evaluate the proximity of 2 elements.]]></description>
-</item>
-<item>
-    <title>Alzheimer disease detection by 3D MRI analysis </title>
-    <link>http://example.org/posts/alzheimer/</link>
-    <pubDate>Fri, 28 Oct 2022 11:00:59 -0400</pubDate>
-    <author>Corentin</author>
-    <guid>http://example.org/posts/alzheimer/</guid>
-    <description><![CDATA[This project focuses on medical imaging and computer vision. The goal is to develop a machine learning model able to detect the state of development of the Alzheimer disease, using 3D MRI data from real patients. In order to do so, we tried different approaches, including the &lsquo;2D epsilon&rsquo; method, which is the use of 2D Convolutionnal neural networks on 2D slices of the MRI, and also the use of 3D CNN.]]></description>
 </item>
 </channel>
 </rss>

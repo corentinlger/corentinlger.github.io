@@ -3,7 +3,39 @@
         <title>Tags - Tag - Corentin LEGER</title>
         <link>http://example.org/tags/</link>
         <description>Tags - Tag - Corentin LEGER</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 05 Jul 2024 11:00:59 -0400</lastBuildDate><atom:link href="http://example.org/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 30 Sep 2024 11:00:59 -0400</lastBuildDate><atom:link href="http://example.org/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Jax</title>
+    <link>http://example.org/tags/jax/</link>
+    <pubDate>Mon, 30 Sep 2024 11:00:59 -0400</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/tags/jax/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Multi-Agent Simulations</title>
+    <link>http://example.org/tags/multi-agent-simulations/</link>
+    <pubDate>Mon, 30 Sep 2024 11:00:59 -0400</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/tags/multi-agent-simulations/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Network Programming</title>
+    <link>http://example.org/tags/network-programming/</link>
+    <pubDate>Mon, 30 Sep 2024 11:00:59 -0400</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/tags/network-programming/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Software Engineering</title>
+    <link>http://example.org/tags/software-engineering/</link>
+    <pubDate>Mon, 30 Sep 2024 11:00:59 -0400</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/tags/software-engineering/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>Cultural Evolution</title>
     <link>http://example.org/tags/cultural-evolution/</link>
     <pubDate>Fri, 05 Jul 2024 11:00:59 -0400</pubDate>
@@ -44,43 +76,11 @@
     <description><![CDATA[]]></description>
 </item>
 <item>
-    <title>Jax</title>
-    <link>http://example.org/tags/jax/</link>
-    <pubDate>Tue, 30 Jan 2024 11:00:59 -0400</pubDate>
-    <author>Author</author>
-    <guid>http://example.org/tags/jax/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Multi-Agent Simulations</title>
-    <link>http://example.org/tags/multi-agent-simulations/</link>
-    <pubDate>Tue, 30 Jan 2024 11:00:59 -0400</pubDate>
-    <author>Author</author>
-    <guid>http://example.org/tags/multi-agent-simulations/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Network Programming</title>
-    <link>http://example.org/tags/network-programming/</link>
-    <pubDate>Tue, 30 Jan 2024 11:00:59 -0400</pubDate>
-    <author>Author</author>
-    <guid>http://example.org/tags/network-programming/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
     <title>Evolutionary Computation</title>
     <link>http://example.org/tags/evolutionary-computation/</link>
     <pubDate>Tue, 12 Dec 2023 11:00:59 -0400</pubDate>
     <author>Author</author>
     <guid>http://example.org/tags/evolutionary-computation/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Meta RL</title>
-    <link>http://example.org/tags/meta-rl/</link>
-    <pubDate>Tue, 12 Dec 2023 11:00:59 -0400</pubDate>
-    <author>Author</author>
-    <guid>http://example.org/tags/meta-rl/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>

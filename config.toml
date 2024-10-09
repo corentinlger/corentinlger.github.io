@@ -17,9 +17,9 @@ theme = 'LoveIt'
   
 [params.social]
     github = "corentinlger"
-    linkedin = "corentin-l"
+    Googlescholar = "user=V-qyPxkAAAAJ&hl=en"
     Twitter = "corentinlger"
-
+    linkedin = "corentin-l"
 
 [menu]
   [[menu.main]]

@@ -1,7 +1,7 @@
 ---
 date: 2024-07-05T11:00:59-04:00
 tags: ['LLMs', 'Cultural Evolution']
-title: "Research: When LLMs Play the Telephone Game: Cumulative Changes and Attractors in Iterated Cultural Transmissions"
+title: "Research: When LLMs Play the Telephone Game"
 author: "Jérémy Perez, Corentin Léger, Grgur Kovač, Cédric Colas, Gaia Molinaro, Maxime Derex, Pierre-Yves Oudeyer, Clément Moulin-Frier"
 ---
 Arxiv preprint (Under Review)
