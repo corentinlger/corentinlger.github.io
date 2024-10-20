@@ -1,6 +1,6 @@
 ---
 date: 2023-04-15T11:00:59-04:00
-tags: ['Genetic Algorithms', 'NumPy']
+tags: ['Evolutionary Algorithms', 'NumPy']
 title: "Software: Genetic Algorithm for sport's pools optimization"
 author: "Corentin"
 ---

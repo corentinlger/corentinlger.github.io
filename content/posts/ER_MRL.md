@@ -1,6 +1,6 @@
 ---
 date: 2023-12-12T11:00:59-04:00
-tags: ['Meta RL', 'Evolutionary Computation', 'Reservoir Computing']
+tags: ['Reinforcement Learning', 'Evolutionary Algorithms', 'Recurrent Neural Networks']
 title: "Research: Evolving Reservoirs for Meta Reinforcement Learning"
 author: "Corentin Léger*, Gautier Hamon*, Eleni Nisioti, Xavier Hinaut, Clément Moulin-Frier"
 ---

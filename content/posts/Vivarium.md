@@ -1,6 +1,6 @@
 ---
 date: 2024-09-30T11:00:59-04:00
-tags: ['Multi-Agent Simulations', 'Jax', 'Software Engineering', 'Network Programming']
+tags: ['Multi-Agent Systems', 'Jax', 'Software Engineering']
 title: "Software: Vivarium"
 author: "Corentin"
 ---

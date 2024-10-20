@@ -14,7 +14,8 @@ theme = 'LoveIt'
   [params.home.profile]
     title = "AI Research Engineer in the Flowers team @Inria"
     subtitle = "Hi, welcome to my website! "
-  
+    avatarURL = "/images/toff.png"
+    
 [params.social]
     github = "corentinlger"
     Googlescholar = "user=V-qyPxkAAAAJ&hl=en"

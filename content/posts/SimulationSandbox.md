@@ -1,6 +1,6 @@
 ---
 date: 2024-01-30T11:00:59-04:00
-tags: ['Multi-Agent Simulations', 'Jax', 'Network Programming']
+tags: ['Multi-Agent Systems', 'Jax']
 title: "Software: Simulation Sandbox"
 author: "Corentin"
 ---

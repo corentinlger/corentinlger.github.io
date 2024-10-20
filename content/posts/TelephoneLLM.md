@@ -1,8 +1,11 @@
 ---
 date: 2024-07-05T11:00:59-04:00
-tags: ['LLMs', 'Cultural Evolution']
+tags: ['LLMs', 'Cultural Evolution', 'Natural Language Processing']
 title: "Research: When LLMs Play the Telephone Game"
 author: "Jérémy Perez, Corentin Léger, Grgur Kovač, Cédric Colas, Gaia Molinaro, Maxime Derex, Pierre-Yves Oudeyer, Clément Moulin-Frier"
+# resources:
+# - name: "featured-image"
+#   src: "featured-image.jpg"
 ---
 Arxiv preprint (Under Review)
 
@@ -14,7 +17,6 @@ As large language models (LLMs) start interacting with each other and generating
 
 For instance, we find that more open-ended instructions lead to stronger attraction effects compared to more constrained tasks. We also find that different text properties display different sensitivity to attraction effects, with toxicity leading to stronger attractors than length. These findings highlight the importance of accounting for multi-step transmission dynamics and represent a first step towards a more comprehensive understanding of LLM cultural dynamics. 
 
-    
 [Paper](https://arxiv.org/abs/2407.04503) - [Website](https://sites.google.com/view/telephone-game-llm)
 
  

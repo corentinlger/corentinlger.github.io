@@ -1,6 +1,6 @@
 ---
 date: 2024-06-12T11:00:59-04:00
-tags: ['Open Source', 'Python', 'Deep Learning']
+tags: ['Open Source', 'Python', 'Deep Learning', 'Reinforcement Learning']
 title: "Software: Open Source Contributions"
 author: "Corentin"
 ---
