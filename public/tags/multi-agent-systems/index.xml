@@ -17,8 +17,9 @@
     <pubDate>Tue, 12 Mar 2024 11:00:59 -0400</pubDate>
     <author>Jérémy Perez, Corentin Léger, Marcela Ovando-Tellez, Chris Foulon, Joan Dussauld, Pierre-Yves Oudeyer, Clément Moulin-Frier</author>
     <guid>http://example.org/posts/llm_culture/</guid>
-    <description><![CDATA[Arxiv preprint. We are currently working on the paper to submit it to a conference.
-Abstract Research in cultural evolution aims at providing causal explanations for the change of culture over time. Over the past decades, this field has generated an important body of knowledge, using experimental, historical, and computational methods. While computational models have been very successful at generating testable hypotheses about the effects of several factors, such as population structure or transmission biases, some phenomena have so far been more complex to capture using agent-based and formal models.]]></description>
+    <description><![CDATA[What can LLMs bring to the study of cultural evolution 🤔?
+In this preprint, we present a framework for simulating cultural evolution using LLMs 🦜. We study how the dynamics depends on social structure, simulated personalities👥, and whether it has potential attractors🧲🔍
+Abstract Research in cultural evolution aims at providing causal explanations for the change of culture over time. Over the past decades, this field has generated an important body of knowledge, using experimental, historical, and computational methods.]]></description>
 </item>
 <item>
     <title>Software: Simulation Sandbox</title>

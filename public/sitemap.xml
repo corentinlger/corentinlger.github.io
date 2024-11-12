@@ -2,13 +2,16 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://example.org/</loc><lastmod>2024-09-30T11:00:59-04:00</lastmod></url><url>
+            <loc>http://example.org/</loc><lastmod>2024-10-15T11:00:59-04:00</lastmod></url><url>
+            <loc>http://example.org/posts/lerobot/</loc><lastmod>2024-10-15T11:00:59-04:00</lastmod></url><url>
+            <loc>http://example.org/posts/</loc><lastmod>2024-10-15T11:00:59-04:00</lastmod></url><url>
+            <loc>http://example.org/tags/reinforcement-learning/</loc><lastmod>2024-10-15T11:00:59-04:00</lastmod></url><url>
+            <loc>http://example.org/tags/robotics/</loc><lastmod>2024-10-15T11:00:59-04:00</lastmod></url><url>
+            <loc>http://example.org/tags/</loc><lastmod>2024-10-15T11:00:59-04:00</lastmod></url><url>
             <loc>http://example.org/tags/jax/</loc><lastmod>2024-09-30T11:00:59-04:00</lastmod></url><url>
             <loc>http://example.org/tags/multi-agent-systems/</loc><lastmod>2024-09-30T11:00:59-04:00</lastmod></url><url>
-            <loc>http://example.org/posts/</loc><lastmod>2024-09-30T11:00:59-04:00</lastmod></url><url>
             <loc>http://example.org/tags/software-engineering/</loc><lastmod>2024-09-30T11:00:59-04:00</lastmod></url><url>
             <loc>http://example.org/posts/vivarium/</loc><lastmod>2024-09-30T11:00:59-04:00</lastmod></url><url>
-            <loc>http://example.org/tags/</loc><lastmod>2024-09-30T11:00:59-04:00</lastmod></url><url>
             <loc>http://example.org/tags/cultural-evolution/</loc><lastmod>2024-07-05T11:00:59-04:00</lastmod></url><url>
             <loc>http://example.org/tags/llms/</loc><lastmod>2024-07-05T11:00:59-04:00</lastmod></url><url>
             <loc>http://example.org/tags/natural-language-processing/</loc><lastmod>2024-07-05T11:00:59-04:00</lastmod></url><url>
@@ -16,7 +19,6 @@
             <loc>http://example.org/tags/deep-learning/</loc><lastmod>2024-06-12T11:00:59-04:00</lastmod></url><url>
             <loc>http://example.org/tags/open-source/</loc><lastmod>2024-06-12T11:00:59-04:00</lastmod></url><url>
             <loc>http://example.org/tags/python/</loc><lastmod>2024-06-12T11:00:59-04:00</lastmod></url><url>
-            <loc>http://example.org/tags/reinforcement-learning/</loc><lastmod>2024-06-12T11:00:59-04:00</lastmod></url><url>
             <loc>http://example.org/posts/opensource/</loc><lastmod>2024-06-12T11:00:59-04:00</lastmod></url><url>
             <loc>http://example.org/posts/llm_culture/</loc><lastmod>2024-03-12T11:00:59-04:00</lastmod></url><url>
             <loc>http://example.org/posts/simulationsandbox/</loc><lastmod>2024-01-30T11:00:59-04:00</lastmod></url><url>

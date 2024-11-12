@@ -3,9 +3,18 @@
         <title>Corentin LEGER</title>
         <link>http://example.org/</link>
         <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 30 Sep 2024 11:00:59 -0400</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 15 Oct 2024 11:00:59 -0400</lastBuildDate>
             <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Hackathon: LeRobot</title>
+    <link>http://example.org/posts/lerobot/</link>
+    <pubDate>Tue, 15 Oct 2024 11:00:59 -0400</pubDate>
+    <author>Corentin</author>
+    <guid>http://example.org/posts/lerobot/</guid>
+    <description><![CDATA[Introduction I participated in the LeRobot Hackathon in Toulouse, organized by the great Hugging Face team 🤗 ! It was a great way to get my first steps into real-world reinforcement learning and robotics.
+We went from having a very messy table (see below) with a lot of hardware parts to a fully assembled robot in a few hours. It was a robotic arm with a gripper, the Moss v1 and we had to teach it to push a cube.]]></description>
+</item>
+<item>
     <title>Software: Vivarium</title>
     <link>http://example.org/posts/vivarium/</link>
     <pubDate>Mon, 30 Sep 2024 11:00:59 -0400</pubDate>
@@ -19,8 +28,9 @@
     <pubDate>Fri, 05 Jul 2024 11:00:59 -0400</pubDate>
     <author>Jérémy Perez, Corentin Léger, Grgur Kovač, Cédric Colas, Gaia Molinaro, Maxime Derex, Pierre-Yves Oudeyer, Clément Moulin-Frier</author>
     <guid>http://example.org/posts/telephonellm/</guid>
-    <description><![CDATA[Arxiv preprint (Under Review)
-Abstract As large language models (LLMs) start interacting with each other and generating an increasing amount of text online, it becomes crucial to better understand how information is transformed as it passes from one LLM to the next. While significant research has examined individual LLM behaviors, existing studies have largely overlooked the collective behaviors and information distortions arising from iterated LLM interactions. Small biases, negligible at the single output level, risk being amplified in iterated interactions, potentially leading the content to evolve towards attractor states.]]></description>
+    <description><![CDATA[What happens when LLMs play the Telephone game ☎️? In this new preprint, we analyse the evolution of texts as they are transmitted between LLM agents 🤖💬🤖💬🤖💬
+Do text properties converge to attractors 🧲? How is this influenced by the task📝 and model⚙️?
+Abstract As large language models (LLMs) start interacting with each other and generating an increasing amount of text online, it becomes crucial to better understand how information is transformed as it passes from one LLM to the next.]]></description>
 </item>
 <item>
     <title>Software: Open Source Contributions</title>
@@ -37,8 +47,9 @@ Developed a turorial for hyper parameter search using Optuna in the ReservoirPy 
     <pubDate>Tue, 12 Mar 2024 11:00:59 -0400</pubDate>
     <author>Jérémy Perez, Corentin Léger, Marcela Ovando-Tellez, Chris Foulon, Joan Dussauld, Pierre-Yves Oudeyer, Clément Moulin-Frier</author>
     <guid>http://example.org/posts/llm_culture/</guid>
-    <description><![CDATA[Arxiv preprint. We are currently working on the paper to submit it to a conference.
-Abstract Research in cultural evolution aims at providing causal explanations for the change of culture over time. Over the past decades, this field has generated an important body of knowledge, using experimental, historical, and computational methods. While computational models have been very successful at generating testable hypotheses about the effects of several factors, such as population structure or transmission biases, some phenomena have so far been more complex to capture using agent-based and formal models.]]></description>
+    <description><![CDATA[What can LLMs bring to the study of cultural evolution 🤔?
+In this preprint, we present a framework for simulating cultural evolution using LLMs 🦜. We study how the dynamics depends on social structure, simulated personalities👥, and whether it has potential attractors🧲🔍
+Abstract Research in cultural evolution aims at providing causal explanations for the change of culture over time. Over the past decades, this field has generated an important body of knowledge, using experimental, historical, and computational methods.]]></description>
 </item>
 <item>
     <title>Software: Simulation Sandbox</title>
@@ -84,15 +95,6 @@ The next step will be to add multi-agents training to the project. Then, it will
     <guid>http://example.org/posts/evoopt/</guid>
     <description><![CDATA[As a volleyball player who frequently travels to play against teams in distant cities, I became curious about how sports pools are optimized to ensure fair and reasonable travel times for teams in the same category. To explore this further and delve into evolutionary algorithms, I embarked on a project to create a custom genetic algorithm using NumPy.
 The custom genetic algorithm is designed to improve the current distribution of cities in sports pools.]]></description>
-</item>
-<item>
-    <title>Research: Symbolic Reinforcement Learning</title>
-    <link>http://example.org/posts/symbolicrl/</link>
-    <pubDate>Mon, 16 Jan 2023 11:00:59 -0400</pubDate>
-    <author> Waris Radji, Corentin Léger, Lucas Bardisbanian</author>
-    <guid>http://example.org/posts/symbolicrl/</guid>
-    <description><![CDATA[Paper published in HAL-Inria (Inria&rsquo;s Research or Technical Reports) during a semester project in my last MSc year.
-Abstract Modeling complex problems is a real issue in Reinforcement learning. The goal of this projet is to use a RL model, such as Q-learning, on symbolic data, where the knowledge of the problem would be stored, in the form of qualitative or numerical data (in JSON for example). Instead of only working with numerical data, we could link the data with a certain &rsquo;edition distance&rsquo; which permits to evaluate the proximity of 2 elements.]]></description>
 </item>
 </channel>
 </rss>
