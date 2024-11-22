@@ -3,13 +3,14 @@
         <title>Software Engineering - Tag - Corentin LEGER</title>
         <link>http://example.org/tags/software-engineering/</link>
         <description>Software Engineering - Tag - Corentin LEGER</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 30 Sep 2024 11:00:59 -0400</lastBuildDate><atom:link href="http://example.org/tags/software-engineering/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 21 Nov 2024 11:00:59 -0400</lastBuildDate><atom:link href="http://example.org/tags/software-engineering/" rel="self" type="application/rss+xml" /><item>
     <title>Software: Vivarium</title>
     <link>http://example.org/posts/vivarium/</link>
-    <pubDate>Mon, 30 Sep 2024 11:00:59 -0400</pubDate>
+    <pubDate>Thu, 21 Nov 2024 11:00:59 -0400</pubDate>
     <author>Corentin</author>
     <guid>http://example.org/posts/vivarium/</guid>
-    <description><![CDATA[I am currently working on a project named Vivarium that serves both research and teaching in AI. It&rsquo;s a software that allows launching custom particle based multi-agents simulations, using a physics engine built in Jax. The simulations can be hosted on a server, and interacted with in real time from a web interface or Jupyter Notebooks. The Notebook case aims to teach students how to program behaviors of simulated robots with Python !]]></description>
+    <description><![CDATA[With members of the Flowers team, we developed Vivarium, a multi-agent simulator in Jax. It serves both research and teaching in Artificial Intelligence and Artificial Life.
+This software enables creating simple agents with two motors and two sensors, inspired by Braitenberg Vehicles, in a 2D rigid-body physics world (the physics engine is written in Jax-MD). Despite the simplicity of the agents at an individual level, the interactions between them can lead to complex emergent behaviors and scenarios !]]></description>
 </item>
 <item>
     <title>Research: Cultural evolution in populations of Large Language Models</title>

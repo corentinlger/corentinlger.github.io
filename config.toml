@@ -12,9 +12,10 @@ theme = 'LoveIt'
 
 [params.home]
   [params.home.profile]
-    title = "AI Research Engineer in the Flowers team @Inria"
-    subtitle = "Hi, welcome to my website! "
+    title = "AI Research Engineer @ Inria"
+    subtitle = "Hi, welcome to my website!"
     avatarURL = "/images/toff.png"
+    bio = "Hi I'm Corentin, a research engineer in the Flowers team. I'm particularly interested in ML, Reinforcement Learning, Evolutionary Strategies and LLMs."
     
 [params.social]
     github = "corentinlger"
