@@ -4,7 +4,7 @@ title = 'Corentin LEGER'
 theme = 'LoveIt'
 
 [params]
-  defaultTheme = "light"
+  defaultTheme = "dark"
 
 [params.header.title]
     logo = ""
@@ -15,7 +15,7 @@ theme = 'LoveIt'
     title = "AI Research Engineer @ Inria"
     subtitle = "Hi, welcome to my website!"
     avatarURL = "/images/toff.png"
-    bio = "Hi I'm Corentin, a research engineer in the Flowers team. I'm particularly interested in ML, Reinforcement Learning, Evolutionary Strategies and LLMs."
+    bio = "Hi I'm Corentin, a research engineer in the Flowers team. I'm particularly interested in ML, Reinforcement Learning, Evolutionary Strategies and LLMs. I am currently looking for a position related to one of these fields."
     
 [params.social]
     github = "corentinlger"
