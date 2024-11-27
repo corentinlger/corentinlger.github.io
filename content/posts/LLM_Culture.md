@@ -3,6 +3,7 @@ date: 2024-03-12T11:00:59-04:00
 tags: ['LLMs', 'Cultural Evolution', 'Software Engineering', 'Multi-Agent Systems']
 title: "Research: Cultural evolution in populations of Large Language Models"
 author: "Jérémy Perez, Corentin Léger, Marcela Ovando-Tellez, Chris Foulon, Joan Dussauld, Pierre-Yves Oudeyer, Clément Moulin-Frier"
+categories: ['Research']
 ---
 
 What can LLMs bring to the study of cultural evolution 🤔? 

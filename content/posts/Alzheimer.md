@@ -1,6 +1,7 @@
 ---
 date: 2022-10-28T11:00:59-04:00
 tags: ['Deep Learning', 'Computer Vision']
+categories: ['Software']
 title: "Alzheimer disease detection by 3D MRI analysis "
 author: "Corentin"
 ---

@@ -3,6 +3,7 @@ date: 2024-06-12T11:00:59-04:00
 tags: ['Open Source', 'Python', 'Deep Learning', 'Reinforcement Learning']
 title: "Software: Open Source Contributions"
 author: "Corentin"
+categories: ['Software']
 ---
 
 - Developed the [LLM-Culture](https://github.com/jeremyperez2/LLM-Culture) library. This software enables simulating networks composed of LLMs agents, that can generate text over multiple generations based on their neighbors input, personnality and task. 

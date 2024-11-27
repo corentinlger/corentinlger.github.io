@@ -1,8 +1,9 @@
 ---
 date: 2023-11-17T11:00:59-04:00
-tags: ['LLMs', 'Python', 'Genetic Algorithms', 'Multi-Agent Systems']
+tags: ['LLMs', 'Python', 'Evolutionary Strategies', 'Multi-Agent Systems']
 title: "Hackathon: Ebiose"
 author: "Corentin"
+categories: ['Hackathon']
 ---
 
 ### Introduction 

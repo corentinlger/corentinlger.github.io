@@ -1,6 +1,7 @@
 ---
 date: 2024-07-05T11:00:59-04:00
 tags: ['LLMs', 'Cultural Evolution', 'Natural Language Processing']
+categories: ['Research']
 title: "Research: When LLMs Play the Telephone Game"
 author: "Jérémy Perez, Corentin Léger, Grgur Kovač, Cédric Colas, Gaia Molinaro, Maxime Derex, Pierre-Yves Oudeyer, Clément Moulin-Frier"
 # resources:

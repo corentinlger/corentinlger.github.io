@@ -1,8 +1,9 @@
 ---
 date: 2023-12-12T11:00:59-04:00
-tags: ['Reinforcement Learning', 'Evolutionary Algorithms', 'Recurrent Neural Networks']
+tags: ['Reinforcement Learning', 'Evolutionary Strategies', 'Recurrent Neural Networks', 'Deep Learning']
 title: "Research: Evolving Reservoirs for Meta Reinforcement Learning"
 author: "Corentin Léger*, Gautier Hamon*, Eleni Nisioti, Xavier Hinaut, Clément Moulin-Frier"
+categories: ['Research']
 ---
 
 Paper presented at [EvoStar 2024](https://www.evostar.org/2024/) (Long Talk).

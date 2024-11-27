@@ -15,7 +15,7 @@ theme = 'LoveIt'
     title = "AI Research Engineer @ Inria"
     subtitle = "Hi, welcome to my website!"
     avatarURL = "/images/toff.png"
-    bio = "Hi I'm Corentin, a research engineer in the Flowers team. I'm particularly interested in ML, Reinforcement Learning, Evolutionary Strategies and LLMs. I am currently looking for a position related to one of these fields."
+    bio = "Hi I'm Corentin, a Research Engineer in the Flowers team. My interests include Machine Learning, Reinforcement Learning, Evolutionary Strategies, and LLMs. I'm currently seeking a position in one of these areas."
     
 [params.social]
     github = "corentinlger"
@@ -28,11 +28,26 @@ theme = 'LoveIt'
     name = "About"
     url = "/about"
     weight = 1
-
+  [[menu.main]]
+    weight = 2
+    identifier = "tags"
+    pre = ""
+    post = ""
+    name = "Tags"
+    url = "/tags/"
+    title = ""
+  [[menu.main]]
+    weight = 3
+    identifier = "categories"
+    pre = ""
+    post = ""
+    name = "Categories"
+    url = "/categories/"
+    title = ""
   [[menu.main]]
     name = "Projects"
     url = "/posts/"
-    weight = 2
+    weight = 4
 
 [params.page]
   [params.page.share]

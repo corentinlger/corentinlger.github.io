@@ -3,6 +3,7 @@ date: 2024-10-15T11:00:59-04:00
 tags: ['Robotics', 'Reinforcement Learning']
 title: "Hackathon: LeRobot"
 author: "Corentin"
+categories: ['Hackathon']
 ---
 
 ### Introduction 

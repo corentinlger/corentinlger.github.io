@@ -1,8 +1,9 @@
 ---
 date: 2023-04-15T11:00:59-04:00
-tags: ['Evolutionary Algorithms', 'NumPy']
+tags: ['Evolutionary Strategies', 'NumPy']
 title: "Software: Genetic Algorithm for sport's pools optimization"
 author: "Corentin"
+categories: ['Software']
 ---
 As a volleyball player who frequently travels to play against teams in distant cities, I became curious about how sports pools are optimized to ensure fair and reasonable travel times for teams in the same category. To explore this further and delve into evolutionary algorithms, I embarked on a project to create a custom genetic algorithm using NumPy.
 
