@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Hackathon - Category - Corentin LEGER</title>
+        <link>http://example.org/categories/hackathon/</link>
+        <description>Hackathon - Category - Corentin LEGER</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 15 Oct 2024 11:00:59 -0400</lastBuildDate><atom:link href="http://example.org/categories/hackathon/" rel="self" type="application/rss+xml" /><item>
+    <title>Hackathon: LeRobot</title>
+    <link>http://example.org/posts/lerobot/</link>
+    <pubDate>Tue, 15 Oct 2024 11:00:59 -0400</pubDate>
+    <author>Corentin</author>
+    <guid>http://example.org/posts/lerobot/</guid>
+    <description><![CDATA[Introduction I participated in the LeRobot Hackathon in Toulouse, organized by the Hugging Face team 🤗 ! It was a great way to get my first steps into real-world reinforcement learning and robotics.
+We went from having a very messy table (see below) with a lot of hardware parts to a fully assembled robot in a few hours. It was a robotic arm with a gripper, the Moss v1 and we tried to teach it how to manipulate a cube.]]></description>
+</item>
+<item>
+    <title>Hackathon: Ebiose</title>
+    <link>http://example.org/posts/ebiose/</link>
+    <pubDate>Fri, 17 Nov 2023 11:00:59 -0400</pubDate>
+    <author>Corentin</author>
+    <guid>http://example.org/posts/ebiose/</guid>
+    <description><![CDATA[Introduction Participated to a project called Ebiose during a 2 days hackathon with a team of 4 people. It focuses on a multi-language-based-agent system to solve tasks. In this system, agents are composed of LLM (e.g. GPT-3.5) coupled with a specific prompt. The structure of the multi-agent system followes a predetermined sequence, where one agent answers a question, another verifies the answer, and a final agent synthesizes both responses. This collaboration is inspired by the Autogen Framework, emphasizing coordinated efforts among agents.]]></description>
+</item>
+</channel>
+</rss>
