@@ -13,14 +13,13 @@
 This software enables creating simple agents with two motors and two sensors, inspired by Braitenberg Vehicles, in a 2D rigid-body physics world (the physics engine is written in Jax-MD). Despite the simplicity of the agents at an individual level, the interactions between them can lead to complex emergent behaviors and scenarios !]]></description>
 </item>
 <item>
-    <title>Research: Cultural evolution in populations of Large Language Models</title>
-    <link>http://example.org/posts/llm_culture/</link>
-    <pubDate>Tue, 12 Mar 2024 11:00:59 -0400</pubDate>
-    <author>Jérémy Perez, Corentin Léger, Marcela Ovando-Tellez, Chris Foulon, Joan Dussauld, Pierre-Yves Oudeyer, Clément Moulin-Frier</author>
-    <guid>http://example.org/posts/llm_culture/</guid>
-    <description><![CDATA[What can LLMs bring to the study of cultural evolution 🤔?
-In this preprint, we present a framework for simulating cultural evolution using LLMs 🦜. We study how the dynamics depends on social structure, simulated personalities👥, and whether it has potential attractors🧲🔍
-Abstract Research in cultural evolution aims at providing causal explanations for the change of culture over time. Over the past decades, this field has generated an important body of knowledge, using experimental, historical, and computational methods.]]></description>
+    <title>Software: Open Source Contributions</title>
+    <link>http://example.org/posts/opensource/</link>
+    <pubDate>Wed, 12 Jun 2024 11:00:59 -0400</pubDate>
+    <author>Corentin</author>
+    <guid>http://example.org/posts/opensource/</guid>
+    <description><![CDATA[Co-developed the LLM-Culture library within the Flowers team. This software enables simulating networks composed of LLMs agents, that can generate text over multiple generations based on their neighbors input, personnality and task. The project also provides tools for analyzing the resulting text dynamics and offers an user-friendly web interface, making it accessible to non-programmers.
+Developed a turorial for parallelized hyper parameter search using Optuna in the ReservoirPy machine learning library.]]></description>
 </item>
 </channel>
 </rss>

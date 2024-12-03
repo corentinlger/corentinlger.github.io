@@ -18,8 +18,8 @@ We went from having a very messy table (see below) with a lot of hardware parts 
     <pubDate>Wed, 12 Jun 2024 11:00:59 -0400</pubDate>
     <author>Corentin</author>
     <guid>http://example.org/posts/opensource/</guid>
-    <description><![CDATA[Developed the LLM-Culture library. This software enables simulating networks composed of LLMs agents, that can generate text over multiple generations based on their neighbors input, personnality and task. The project also provides tools for analyzing the resulting text dynamics and offers an user-friendly web interface, making it accessible to non-programmers.
-Developed a turorial for hyper parameter search using Optuna in the ReservoirPy machine learning library. The tutorial covers sequential and parallelized hyperparameter search on local machines using the joblib package.]]></description>
+    <description><![CDATA[Co-developed the LLM-Culture library within the Flowers team. This software enables simulating networks composed of LLMs agents, that can generate text over multiple generations based on their neighbors input, personnality and task. The project also provides tools for analyzing the resulting text dynamics and offers an user-friendly web interface, making it accessible to non-programmers.
+Developed a turorial for parallelized hyper parameter search using Optuna in the ReservoirPy machine learning library.]]></description>
 </item>
 <item>
     <title>Research: Evolving Reservoirs for Meta Reinforcement Learning</title>
