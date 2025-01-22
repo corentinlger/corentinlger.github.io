@@ -5,7 +5,7 @@ draft: false
 description: 
 ---
 
-Hi, I'm Corentin, an AI Research Engineer in the [Inria Flowers](https://flowers.inria.fr/) team. I have strong foundation in ML and Software Development, and I'm particularly interested in Reinforcement Learning, LLMs and Evolutionary Strategies. I develop and study multi-agent systems, which involves building software to analyze text evolution in populations of LLMs and creating a multi-agent simulator in Jax.
+Hi, I'm Corentin, an AI Research Engineer in the [Inria Flowers](https://flowers.inria.fr/) team. I have strong foundation in Machine Learning and Software Development, and I'm particularly interested in Reinforcement Learning, LLMs and Evolutionary Strategies. Currently I develop and study multi-agent systems, which involves building software to analyze text evolution in populations of LLMs and creating a multi-agent simulator in Jax.
 
 I hold a Master's degree in Cognitive and Computer Sciences from ENSC (GPA 4.0), complemented by exchange programs in AI. I also interned at [Connectiv-IT](http://www.connectiv-it.com/) as a Data Scientist, and at [Inria](https://inria.fr/fr) between [Flowers](https://flowers.inria.fr/) and [Mnemosyne](https://team.inria.fr/mnemosyne/) teams, where I conducted research on Reinforcement Learning, RNNs and Evolutionary Strategies.
 
@@ -19,7 +19,7 @@ You can download my resume [here](/resume.pdf) <br />
 
 Feel free to get in touch if you have any questions, projects or collaborations in mind !
 
-- Email : coleger@ensc.fr
+- Email : corentin.lger@gmail.com
 - LinkedIn : [corentin-l](https://www.linkedin.com/in/corentin-l/)
 - GitHub : [corentinlger](https://github.com/corentinlger)
 
