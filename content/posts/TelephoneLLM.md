@@ -1,14 +1,14 @@
 ---
-date: 2024-07-05T11:00:59-04:00
-tags: ['LLMs', 'Cultural Evolution', 'Natural Language Processing']
+date: 2025-01-05T11:00:59-04:00
+tags: ['LLMs', 'Cultural Evolution', 'Natural Language Processing', 'Multi-Agent Systems']
 categories: ['Research']
-title: "Research: When LLMs Play the Telephone Game"
+title: "Research: When LLMs Play the Telephone Game (ICLR 2025)"
 author: "Jérémy Perez, Grgur Kovač, Corentin Léger, Cédric Colas, Gaia Molinaro, Maxime Derex, Pierre-Yves Oudeyer, Clément Moulin-Frier"
 # resources:
 # - name: "featured-image"
 #   src: "featured-image.jpg"
 ---
-What happens when LLMs play the Telephone game ☎️? In this new preprint, we analyse the evolution of texts as they are transmitted between LLM agents 🤖💬🤖💬🤖💬 
+What happens when LLMs play the Telephone game ☎️? In this paper, we analyse the evolution of texts as they are transmitted between LLM agents 🤖💬🤖💬🤖💬 
 
 Do text properties converge to attractors 🧲? How is this influenced by the task📝 and model⚙️?
 
@@ -20,7 +20,7 @@ As large language models (LLMs) start interacting with each other and generating
 
 For instance, we find that more open-ended instructions lead to stronger attraction effects compared to more constrained tasks. We also find that different text properties display different sensitivity to attraction effects, with toxicity leading to stronger attractors than length. These findings highlight the importance of accounting for multi-step transmission dynamics and represent a first step towards a more comprehensive understanding of LLM cultural dynamics. 
 
-[Paper](https://arxiv.org/abs/2407.04503) (Under Review) - [Website](https://sites.google.com/view/telephone-game-llm)
+[Paper](https://arxiv.org/abs/2407.04503) (ICLR 2025) - [Website](https://sites.google.com/view/telephone-game-llm)
 
  
 

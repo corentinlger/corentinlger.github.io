@@ -1,7 +1,7 @@
 ---
 date: 2024-03-12T11:00:59-04:00
 tags: ['LLMs', 'Cultural Evolution', 'Multi-Agent Systems', 'Natural Language Processing']
-title: "Research: Cultural evolution in populations of Large Language Models"
+title: "Research: Cultural evolution in populations of Large Language Models (Preprint)"
 author: "Jérémy Perez, Corentin Léger, Marcela Ovando-Tellez, Chris Foulon, Joan Dussauld, Pierre-Yves Oudeyer, Clément Moulin-Frier"
 categories: ['Research']
 ---

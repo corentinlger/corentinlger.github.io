@@ -15,7 +15,7 @@ theme = 'LoveIt'
     title = "AI Research Engineer @ Inria"
     subtitle = "Hi, welcome to my website!"
     avatarURL = "/images/toff.png"
-    bio = "Hi I'm Corentin, a Research Engineer in the Flowers team. My interests include Machine Learning, Reinforcement Learning, Evolutionary Strategies, and LLMs. I'm currently seeking a position in one of these areas."
+    bio = "Hi I'm Corentin, a Research Engineer in the Flowers team. My interests include Machine Learning, Reinforcement Learning, Evolutionary Strategies, and LLMs. I'm currently seeking an engineering position in one of these areas."
     
 [params.social]
     github = "corentinlger"

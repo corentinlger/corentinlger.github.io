@@ -3,7 +3,7 @@ date: 2024-11-21T11:00:59-04:00
 tags: ['Multi-Agent Systems', 'Jax', 'Software Engineering']
 categories: ['Software']
 title: "Software: Vivarium"
-author: "Corentin"
+author: "Corentin Léger, Clément Moulin-Frier, Martial Marzloff"
 ---
 
 With members of the Flowers team, we developed [Vivarium](https://github.com/flowersteam/vivarium), a multi-agent simulator in Jax. It serves both research and teaching in Artificial Intelligence and Artificial Life. 

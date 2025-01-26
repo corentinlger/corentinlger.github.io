@@ -2,7 +2,7 @@
 date: 2023-01-16T11:00:59-04:00
 tags: ['Reinforcement learning', 'Symbolic AI']
 categories: ['Research']
-title: "Research: Symbolic Reinforcement Learning"
+title: "Research: Symbolic Reinforcement Learning (HAL Inria)"
 author: " Waris Radji, Corentin Léger, Lucas Bardisbanian"
 ---
 

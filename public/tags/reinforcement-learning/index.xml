@@ -22,7 +22,7 @@ We went from having a very messy table (see below) with a lot of hardware parts 
 Developed a turorial for parallelized hyper parameter search using Optuna in the ReservoirPy machine learning library.]]></description>
 </item>
 <item>
-    <title>Research: Evolving Reservoirs for Meta Reinforcement Learning</title>
+    <title>Research: Evolving Reservoirs for Meta Reinforcement Learning (EvoStar 2024)</title>
     <link>http://example.org/posts/er_mrl/</link>
     <pubDate>Tue, 12 Dec 2023 11:00:59 -0400</pubDate>
     <author>Corentin Léger*, Gautier Hamon*, Eleni Nisioti, Xavier Hinaut, Clément Moulin-Frier</author>
@@ -41,7 +41,7 @@ In this work, we propose a computational model for studying a mechanism that can
 The next step will be to add multi-agents training to the project. Then, it will be interesting to explore the path of self play to see how complex the behaviors of the agent can become !]]></description>
 </item>
 <item>
-    <title>Research: Symbolic Reinforcement Learning</title>
+    <title>Research: Symbolic Reinforcement Learning (HAL Inria)</title>
     <link>http://example.org/posts/symbolicrl/</link>
     <pubDate>Mon, 16 Jan 2023 11:00:59 -0400</pubDate>
     <author> Waris Radji, Corentin Léger, Lucas Bardisbanian</author>

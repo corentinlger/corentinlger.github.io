@@ -3,20 +3,44 @@
         <title>Tags - Tag - Corentin LEGER</title>
         <link>http://example.org/tags/</link>
         <description>Tags - Tag - Corentin LEGER</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 21 Nov 2024 11:00:59 -0400</lastBuildDate><atom:link href="http://example.org/tags/" rel="self" type="application/rss+xml" /><item>
-    <title>Jax</title>
-    <link>http://example.org/tags/jax/</link>
-    <pubDate>Thu, 21 Nov 2024 11:00:59 -0400</pubDate>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 05 Jan 2025 11:00:59 -0400</lastBuildDate><atom:link href="http://example.org/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Cultural Evolution</title>
+    <link>http://example.org/tags/cultural-evolution/</link>
+    <pubDate>Sun, 05 Jan 2025 11:00:59 -0400</pubDate>
     <author>Author</author>
-    <guid>http://example.org/tags/jax/</guid>
+    <guid>http://example.org/tags/cultural-evolution/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>LLMs</title>
+    <link>http://example.org/tags/llms/</link>
+    <pubDate>Sun, 05 Jan 2025 11:00:59 -0400</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/tags/llms/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Multi-Agent Systems</title>
     <link>http://example.org/tags/multi-agent-systems/</link>
-    <pubDate>Thu, 21 Nov 2024 11:00:59 -0400</pubDate>
+    <pubDate>Sun, 05 Jan 2025 11:00:59 -0400</pubDate>
     <author>Author</author>
     <guid>http://example.org/tags/multi-agent-systems/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Natural Language Processing</title>
+    <link>http://example.org/tags/natural-language-processing/</link>
+    <pubDate>Sun, 05 Jan 2025 11:00:59 -0400</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/tags/natural-language-processing/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Jax</title>
+    <link>http://example.org/tags/jax/</link>
+    <pubDate>Thu, 21 Nov 2024 11:00:59 -0400</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/tags/jax/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
@@ -41,30 +65,6 @@
     <pubDate>Tue, 15 Oct 2024 11:00:59 -0400</pubDate>
     <author>Author</author>
     <guid>http://example.org/tags/robotics/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Cultural Evolution</title>
-    <link>http://example.org/tags/cultural-evolution/</link>
-    <pubDate>Fri, 05 Jul 2024 11:00:59 -0400</pubDate>
-    <author>Author</author>
-    <guid>http://example.org/tags/cultural-evolution/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>LLMs</title>
-    <link>http://example.org/tags/llms/</link>
-    <pubDate>Fri, 05 Jul 2024 11:00:59 -0400</pubDate>
-    <author>Author</author>
-    <guid>http://example.org/tags/llms/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Natural Language Processing</title>
-    <link>http://example.org/tags/natural-language-processing/</link>
-    <pubDate>Fri, 05 Jul 2024 11:00:59 -0400</pubDate>
-    <author>Author</author>
-    <guid>http://example.org/tags/natural-language-processing/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
