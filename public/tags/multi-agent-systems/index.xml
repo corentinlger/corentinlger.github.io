@@ -33,15 +33,6 @@ In this preprint, we present a framework for simulating cultural evolution using
 Abstract Research in cultural evolution aims at providing causal explanations for the change of culture over time. Over the past decades, this field has generated an important body of knowledge, using experimental, historical, and computational methods.]]></description>
 </item>
 <item>
-    <title>Software: Simulation Sandbox</title>
-    <link>http://example.org/posts/simulationsandbox/</link>
-    <pubDate>Tue, 30 Jan 2024 11:00:59 -0400</pubDate>
-    <author>Corentin</author>
-    <guid>http://example.org/posts/simulationsandbox/</guid>
-    <description><![CDATA[SimulationSandbox is a simple framework built with Jax and Socket that allows for real-time interaction between a simulation hosted on a server and multiple clients. It provides a simple interface for visualizing or interacting with the state of a hosted simulation from remote clients, such as jupyter notebooks.
-Code]]></description>
-</item>
-<item>
     <title>Hackathon: Ebiose</title>
     <link>http://example.org/posts/ebiose/</link>
     <pubDate>Fri, 17 Nov 2023 11:00:59 -0400</pubDate>

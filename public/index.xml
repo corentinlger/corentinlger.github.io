@@ -53,15 +53,6 @@ In this preprint, we present a framework for simulating cultural evolution using
 Abstract Research in cultural evolution aims at providing causal explanations for the change of culture over time. Over the past decades, this field has generated an important body of knowledge, using experimental, historical, and computational methods.]]></description>
 </item>
 <item>
-    <title>Software: Simulation Sandbox</title>
-    <link>http://example.org/posts/simulationsandbox/</link>
-    <pubDate>Tue, 30 Jan 2024 11:00:59 -0400</pubDate>
-    <author>Corentin</author>
-    <guid>http://example.org/posts/simulationsandbox/</guid>
-    <description><![CDATA[SimulationSandbox is a simple framework built with Jax and Socket that allows for real-time interaction between a simulation hosted on a server and multiple clients. It provides a simple interface for visualizing or interacting with the state of a hosted simulation from remote clients, such as jupyter notebooks.
-Code]]></description>
-</item>
-<item>
     <title>Research: Evolving Reservoirs for Meta Reinforcement Learning (EvoStar 2024)</title>
     <link>http://example.org/posts/er_mrl/</link>
     <pubDate>Tue, 12 Dec 2023 11:00:59 -0400</pubDate>
@@ -80,22 +71,13 @@ In this work, we propose a computational model for studying a mechanism that can
     <description><![CDATA[Introduction Participated to a project called Ebiose during a 2 days hackathon with a team of 4 people. It focuses on a multi-language-based-agent system to solve tasks. In this system, agents are composed of LLM (e.g. GPT-3.5) coupled with a specific prompt. The structure of the multi-agent system followes a predetermined sequence, where one agent answers a question, another verifies the answer, and a final agent synthesizes both responses. This collaboration is inspired by the Autogen Framework, emphasizing coordinated efforts among agents.]]></description>
 </item>
 <item>
-    <title>Software: Rising Sun</title>
-    <link>http://example.org/posts/risingsun/</link>
-    <pubDate>Wed, 12 Jul 2023 11:00:59 -0400</pubDate>
-    <author>Corentin</author>
-    <guid>http://example.org/posts/risingsun/</guid>
-    <description><![CDATA[To try to beat friends on the combat phases of the &ldquo;Rising Sun&rdquo; board game, I created this simplified gymnasium implementation of the game. The project also incorporates a python script to train a single RL agent on the environment. This agent can currently only be trained against hard-coded players (either random of with heuristics).
-The next step will be to add multi-agents training to the project. Then, it will be interesting to explore the path of self play to see how complex the behaviors of the agent can become !]]></description>
-</item>
-<item>
-    <title>Software: Genetic Algorithm for sport&#39;s pools optimization</title>
-    <link>http://example.org/posts/evoopt/</link>
-    <pubDate>Sat, 15 Apr 2023 11:00:59 -0400</pubDate>
-    <author>Corentin</author>
-    <guid>http://example.org/posts/evoopt/</guid>
-    <description><![CDATA[As a volleyball player who frequently travels to play against teams in distant cities, I became curious about how sports pools are optimized to ensure fair and reasonable travel times for teams in the same category. To explore this further and delve into evolutionary algorithms, I embarked on a project to create a custom genetic algorithm using NumPy.
-The custom genetic algorithm is designed to improve the current distribution of cities in sports pools.]]></description>
+    <title>Research: Symbolic Reinforcement Learning (HAL Inria)</title>
+    <link>http://example.org/posts/symbolicrl/</link>
+    <pubDate>Mon, 16 Jan 2023 11:00:59 -0400</pubDate>
+    <author> Waris Radji, Corentin Léger, Lucas Bardisbanian</author>
+    <guid>http://example.org/posts/symbolicrl/</guid>
+    <description><![CDATA[Paper published in HAL-Inria (Inria&rsquo;s Research or Technical Reports) during a semester project in my last MSc year.
+Abstract Modeling complex problems is a real issue in Reinforcement learning. The goal of this projet is to use a RL model, such as Q-learning, on symbolic data, where the knowledge of the problem would be stored, in the form of qualitative or numerical data (in JSON for example). Instead of only working with numerical data, we could link the data with a certain &rsquo;edition distance&rsquo; which permits to evaluate the proximity of 2 elements.]]></description>
 </item>
 </channel>
 </rss>

@@ -14,3 +14,12 @@ The project also provides tools for analyzing the resulting text dynamics and of
 - I helped creating this [Hugging Face space](https://huggingface.co/spaces/riiswa/RL-Interpretable-Policy-via-Kolmogorov-Arnold-Network) for [KanRL](https://github.com/riiswa/kanrl), a project studying the combination of Reinforcement Learning and Kolmogorov-Arnold Networks (KANs). I also led experiments to compare the performance of simple Policy Gradient and PPO algorithms using both KANs and MLPs.
 
 - Fixed several issues on the [Stable-Baselines3](https://github.com/DLR-RM/stable-baselines3) and [Stable-Baselines3-Contrib](https://github.com/Stable-Baselines-Team/stable-baselines3-contrib) Reinforcement Learning Libraries.
+
+- Other personal projects on my GitHub:
+    - [SimulationSandbox](https://github.com/corentinlger/SimulationSandbox): a simple framework built with Jax and Socket that allows for real-time interaction between a simulation hosted on a server and multiple clients.
+    - [Evolutionary Sport Pools Optimizer](https://github.com/corentinlger/Evolutionary_Sport_Pools_Optimizer): a genetic algorithm in Numpy for optimizing cities distribution in sports pools based on their distances
+    - [Rising-Sun](): a simplified gymnasium implementation of the Risin Sun board game with training scripts for Reinforcement Learning agents 
+    - [Alzheimer Detection](https://github.com/corentinlger/Alzheimer-Detection): Computer vision project to detect the stage of development of Alzheimer's desease using 2D and 3D CNNS 
+
+
+

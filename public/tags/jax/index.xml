@@ -12,14 +12,5 @@
     <description><![CDATA[With members of the Flowers team, we developed Vivarium, a multi-agent simulator in Jax. It serves both research and teaching in Artificial Intelligence and Artificial Life.
 This software enables creating simple agents with two motors and two sensors, inspired by Braitenberg Vehicles, in a 2D rigid-body physics world (the physics engine is written in Jax-MD). Despite the simplicity of the agents at an individual level, the interactions between them can lead to complex emergent behaviors and scenarios !]]></description>
 </item>
-<item>
-    <title>Software: Simulation Sandbox</title>
-    <link>http://example.org/posts/simulationsandbox/</link>
-    <pubDate>Tue, 30 Jan 2024 11:00:59 -0400</pubDate>
-    <author>Corentin</author>
-    <guid>http://example.org/posts/simulationsandbox/</guid>
-    <description><![CDATA[SimulationSandbox is a simple framework built with Jax and Socket that allows for real-time interaction between a simulation hosted on a server and multiple clients. It provides a simple interface for visualizing or interacting with the state of a hosted simulation from remote clients, such as jupyter notebooks.
-Code]]></description>
-</item>
 </channel>
 </rss>
