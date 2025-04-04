@@ -936,29 +936,28 @@ img {
 }
 
 
-
 .topnav {
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
-    z-index: 1000;
-    background-color: white;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    padding: 0.5rem 1rem;
+    z-index: 1000; /* Ensures it stays above other elements */
+    background-color: white; /* Solid background color */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Shadow for better visibility */
+    overflow: hidden;
+    padding: 0 1rem;
 }
 
 /* Add padding to main content to prevent it from being hidden behind the fixed navbar */
 main.container {
-    padding-top: 100px; /* Default padding for desktop */
+    padding-top: 80px; /* Adjust this value based on your navbar height */
 }
 
 /* Logo link styling */
 .logo-link {
-    display: flex;
+    display: inline-block;
     text-decoration: none;
     color: inherit;
-    align-items: center;
 }
 
 .logo-link:hover {
@@ -974,46 +973,40 @@ main.container {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    flex-wrap: wrap;
 }
 
-/* Style for the logo section */
-.topnav-left {
-    display: flex;
-    align-items: center;
-}
-
-/* Style for the navigation links section */
-.topnav-right {
-    display: flex;
-    align-items: center;
-}
-
-/* Adjust logo alignment */
+/* Adjust logo alignment to be at the start instead of centered */
 .topnav .logo {
     display: flex;
     align-items: center;
-    justify-content: flex-start;
-    margin: 0;
+    justify-content: flex-start; /* Change from center to flex-start */
+    margin: 0; /* Remove auto margins */
 }
 
+/* Ensure the logo link takes appropriate space */
+.logo-link {
+    display: inline-flex;
+    text-decoration: none;
+    color: inherit;
+}
 .topnav a {
+    float: left;
     color: #000000;
     text-align: right;
-    padding: 0.8rem 1rem;
+    padding: 14px 16px;
     text-decoration: none;
     transition: transform 0.3s ease, color 0.3s ease;
     transform-origin: center;
     position: relative;
-    display: block;
 }
 
 .topnav a:hover {
     background-color: transparent;
+    /* color: #2a7ae2; Optional: change text color on hover */
     transform: scale(1.08);
 }
 
-/* Underline animation */
+/* Optional: add a subtle underline animation */
 .topnav a::after {
     content: '';
     position: absolute;
@@ -1021,6 +1014,7 @@ main.container {
     height: 2px;
     bottom: 10px;
     left: 50%;
+    /* background-color: #2a7ae2; */
     transition: all 0.3s ease;
 }
 
@@ -1029,72 +1023,71 @@ main.container {
     left: 15%;
 }
 
+/* .topnav a:hover {
+	background-color: #f0eeee;
+	color: black;
+} */
+
 .topnav .name {
-    font-size: 1.5em;
-    margin-top: 0;
-    margin-bottom: 0;
-    font-weight: 500;
+	font-size: 1.5em;
+	margin-top: 0;
+	margin-bottom: 0;
+	font-weight: 500;
 }
 
 .topnav .slogan {
-    font-size: 1.0em;
-    color: #888;
+	/* font-size: 0.9em; */
+	font-size: 1.0em;
+	color: #888;
+}
+
+.topnav a.active {
+	background-color: #04AA6D;
+	color: white;
+}
+
+.topnav-left {
+	float: left;
+}
+
+.topnav-right {
+	float: right;
 }
 
 section[id], h2[id] {
-    scroll-margin-top: 140px;
+    scroll-margin-top: 120px; /* Adjust based on your navbar height */
 }
 
-/* Mobile styles */
-@media (max-width: 768px) {
-    .topnav-container {
-        flex-direction: column;
-        align-items: flex-start;
-    }
-    
-    .topnav-right {
-        width: 100%;
-        margin-top: 0.5rem;
-        justify-content: space-between;
-    }
-    
-    main.container {
-        padding-top: 120px; /* Increase padding to account for taller navbar */
-    }
-
-	/* Increase scroll margin for tablets */
-    section[id], h2[id] {
-        scroll-margin-top: 160px;
-    }
+.face img {
+	box-shadow: 0.05em 0.05em 0.2em rgba(0, 0, 0, 0.3);
+	border-radius: 0.2em;
 }
 
 @media (max-width: 480px) {
-    .topnav {
-        padding: 0.5rem;
-    }
-    
-    .topnav a {
-        padding: 0.6rem 0.8rem;
-    }
-    
-    .topnav-right {
-        flex-wrap: wrap;
-    }
-    
-    main.container {
-        padding-top: 160px; /* Further increase for potentially wrapped navigation */
-    }
-    
-    .face {
-        display: none;
-    }
+	.face {
+		display: none;
+	}
 
-	
-	/* Further increase scroll margin for mobile phones */
-    section[id], h2[id] {
-        scroll-margin-top: 200px;
-    }
+	.topnav-right {
+		float: left;
+	}
+
+	.topnav .row {
+		flex-direction: column;
+		align-items: flex-start;
+	}
 }
+
+/* @media (max-width: 768px) {
+	.topnav .row {
+		flex-wrap: wrap;
+	}
+
+	.topnav-right {
+		width: 100%;
+		text-align: right;
+	}
+} */
 
 html {
 	scroll-behavior: smooth;
