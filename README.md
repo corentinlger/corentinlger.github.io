@@ -1,0 +1,1 @@
+Personal website, design inspired by [Mikayel Samvelyan's site](https://samvelyan.com/).
