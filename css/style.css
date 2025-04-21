@@ -614,6 +614,11 @@ article>h1:first-child {
 .contact img {
 	width: 2rem;
 	height: 2rem;
+	transition: transform 0.3s ease;
+}
+
+.contact a:hover img {
+    transform: scale(1.2); /* Zoom effect on hover */
 }
 
 .contact span img {
@@ -1096,6 +1101,8 @@ section[id], h2[id] {
     }
 }
 
+
 html {
 	scroll-behavior: smooth;
 }
+
