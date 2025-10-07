@@ -42,19 +42,21 @@
                 <div class="topnav-left">
                     <a href="#" class="logo-link">
                         <div class="logo">
-                            <img src="imgs/toff.png" class="landing">
+                            <img src="imgs/toff.png" class="landing">   
+
                             <div>
                                 <span class="name">Corentin Léger</span>
-                                <span class="slogan">AI Researcher Engineer</span>
+                                <span class="slogan">AI/ML Research Engineer</span>
                             </div>
                         </div>
                     </a>
                 </div>
                 <div class="topnav-right">
-                    <a href="#papers">Publications</a>
+                    <a href="#papers">Research</a>
                     <a href="#libs">Open Source</a>
-                    <a href="#teaching">Teaching</a>
-                    <a target="_blank" href="resume.pdf">CV</a>
+                    <!-- <a href="#teaching">Teaching</a> -->
+                    <!-- <a href="#projects">Projects</a> -->
+                    <a target="_blank" href="leger_corentin_resume.pdf">CV</a>
                 </div>
             </div>
         </div>
@@ -64,25 +66,20 @@
             <div class="col-md-8">
                <div>
                   <p>
-                     Hello, I’m Corentin, a Research Engineer at 
-                     <a href="https://huggingface.co/paris-noah" target="_blank">Huawei Noah's Ark Lab</a> Paris.
-                     I have a strong foundation in Machine Learning and Software Engineering, 
-                     and I'm particularly interested in 
-                     Reinforcement Learning, Evolutionary Strategies, Multi-agent systems and LLMs. 
-                 </p>
-                 <p>
-                     I currently work on applying LLMs to automate Data Science tasks,
+                     Hi, I’m Corentin, a Research Engineer at 
+                     <a href="https://huggingface.co/paris-noah" target="_blank">Huawei Noah's Ark Lab</a> Paris,
+                     working on LLMs, AutoML and RL
                      under the supervision of 
                      <a href="https://scholar.google.com/citations?user=s0njcGgAAAAJ&hl=en" target="_blank">Balázs Kégl</a>.
+                 </p>
+                 <p> 
                      Prior to that, I was a Research Engineer at 
                      <a href="https://www.inria.fr/en" target="_blank">Inria</a>   
                      in the 
                      <a href="https://flowers.inria.fr/" target="_blank">Flowers</a>
-                     lab, where I worked on multi-agent systems,
+                     lab, where I developed multi-agent systems,
                      supervised by
                      <a href="https://scholar.google.fr/citations?user=rBnV60QAAAAJ&hl=en" target="_blank">Clément Moulin Frier</a>. 
-                 </p> 
-                 <p>
                      During my MSc in Computer and Cognitive Sciences at  
                      <a href="https://ensc.bordeaux-inp.fr/fr" target="_blank">ENSC</a>,
                      I also interned at 
@@ -90,9 +87,24 @@
                      as a Data Scientist,
                      and at  
                      <a href="https://flowers.inria.fr/" target="_blank">Inria Flowers</a>
-                     doing Meta-RL research.
-                 </p>
+                     doing Reinforcement Learning research.
+                 </p> 
+                 <!-- <p>
+                     During my MSc in Computer and Cognitive Sciences at  
+                     <a href="https://ensc.bordeaux-inp.fr/fr" target="_blank">ENSC</a>,
+                     I also interned at 
+                     <a href="https://www.connectiv-it.com/" target="_blank">Connectiv-IT</a>
+                     as a Data Scientist,
+                     and at  
+                     <a href="https://flowers.inria.fr/" target="_blank">Inria Flowers</a>
+                     doing Reinforcement Learning research.
+                 </p> -->
                  <p>
+               <!-- <p>
+                  I have a strong foundation in Machine Learning and Software Engineering, 
+                  and I'm particularly interested in 
+                  Reinforcement Learning, Evolutionary Strategies, Multi-agent systems and LLMs.
+               </p> -->
                  Among a lot of other things, I love sports and play volley-ball at a national level
                  (<a href="https://drive.google.com/file/d/1FhwyMhKOxN7QKWM3JcCXx-rfS5ZLsxHw/view?usp=sharing" target="_blank">bronze medal</a>
                  in the 2023 French University Championship!).
@@ -122,14 +134,116 @@
  
       <!-- Publications -->
       <section>
-         <h2 id="papers">Publications</h2>
+         <h2 id="papers">Research</h2>
          <p>
+            <!-- I'm particularly interested in 
+            Reinforcement Learning, Evolutionary Strategies, Multi-agent systems and LLMs. -->
            You can check my <a href="https://scholar.google.com/citations?user=V-qyPxkAAAAJ&hl=en" target="_blank">Google
             Scholar</a> for more details about the publications.
          </p>
          <p>
             
          </p>
+
+
+         <!-- LLM persuasion paper -->
+         <div class="image-container row mb-4">
+            <div class="col-2 mt-3">
+               <img src="imgs/pubs/persuasion.png" alt="llm_persuasion" width="180" />
+            </div>
+            <div class="col-10">
+               <p>
+                  <a href="https://drive.google.com/file/d/1-lkHBkZxOIYp5Syfk34BJ0RsPwcAKog_/view?usp=sharing" target="_blank" style="color: #0047ab"><strong>
+                     Optimizing for Persuasion Improves LLM Generalization: Evidence from Quality-Diversity Evolution of Debate Strategies
+                     </strong></a><br />
+                  <a href="https://github.com/akseljoonas"> A J Reedi</a>,
+                  <strong>C Léger</strong>,
+                  <a href="https://julienp.netlify.app/"> J Pourcel</a>,
+                  <a href="https://github.com/LorisGaven"> L Gaven</a>,
+                  <a href="https://openreview.net/profile?id=~Perrine_Charriau1"> Perrine Charriau</a>,
+                  <a href="https://guillaumepourcel.github.io/">G Pourcel</a>
+                  <br />
+                  <em>MTI-LLM @ NeurIPS</em>, 2025
+               </p>
+               <div class="paper" id="llm_persuasion">
+                  <a href="https://drive.google.com/file/d/1-lkHBkZxOIYp5Syfk34BJ0RsPwcAKog_/view?usp=sharing" target="_blank"><button type="button"
+                        class="btn btn-outline-primary btn-sm">
+                        paper
+                     </button></a>
+                     <a href="https://github.com/flowersteam/llm_persuasion" target="_blank"><button type="button"
+                        class="btn btn-outline-primary btn-sm">
+                        code
+                     </button></a>
+                  <!-- <a href="TODO" target="_blank"><button
+                        type="button" class="btn btn-outline-primary btn-sm">
+                        tweet
+                     </button></a>
+                  <a shape="rect" href="javascript:togglebib('llm_persuasion')" class="togglebib"><button type="button"
+                        class="btn btn-outline-primary btn-sm">
+                        bibtex
+                     </button></a>
+                  <pre>
+@misc{TODO,
+   title={Optimizing for Persuasion Improves LLM Generalization: Evidence from Quality-Diversity Evolution of Debate Strategies}, 
+   author={TODO},
+   year={2025},
+   eprint={TODO},
+   archivePrefix={TODO},
+   primaryClass={TODO},
+   url={TODO}, 
+}</pre> -->
+               </div>
+            </div>
+         </div>
+
+
+         <!-- LLM Models & HPs paper -->
+         <div class="image-container row mb-4">
+            <div class="col-2 mt-3">
+               <img src="imgs/pubs/llm_hps.png" alt="llm_hps" width="180" />
+            </div>
+            <div class="col-10">
+               <p>
+                  <a href="https://openreview.net/forum?id=Ppo2SETqcE" target="_blank" style="color: #0047ab"><strong>
+                     In-Context Meta-Learning with Large Language Models for Automated Model and Hyperparameter Selection
+                     </strong></a><br />
+                  <a href="https://www.linkedin.com/in/youssef-attia-el-hili/"> Y Attia El Hili</a>,
+                  <a href="https://albertcthomas.github.io/"> A Thomas</a>,
+                  <a href="https://abenechehab.github.io/"> A Benechehab</a>,
+                  <strong>C Léger</strong>,
+                  <a href="https://scholar.google.com/citations?user=4UoL5VsAAAAJ&hl=fr"> C Ancourt</a>,
+                  <a href="https://scholar.google.com/citations?user=s0njcGgAAAAJ&hl=en&oi=ao">B Kégl</a>
+                  <br />
+                  <em>LLM-eval @ NeurIPS</em>, 2025
+               </p>
+               <div class="paper" id="llm_hps">
+                  <a href="https://openreview.net/pdf?id=Ppo2SETqcE" target="_blank"><button type="button"
+                        class="btn btn-outline-primary btn-sm">
+                        paper
+                     </button></a>
+                  <!-- <a href="TODO" target="_blank"><button
+                        type="button" class="btn btn-outline-primary btn-sm">
+                        tweet
+                     </button></a>
+                  <a shape="rect" href="javascript:togglebib('llm_persuasion')" class="togglebib"><button type="button"
+                        class="btn btn-outline-primary btn-sm">
+                        bibtex
+                     </button></a>
+                  <pre> -->
+<!-- Wait until gets published on google scholar to get bibtex -->
+<!-- @misc{TODO,
+   title={In-Context Meta-Learning with Large Language Models for Automated Model and Hyperparameter Selection}, 
+   author={TODO},
+   year={2025},
+   eprint={TODO},
+   archivePrefix={TODO},
+   primaryClass={TODO},
+   url={TODO}, 
+}</pre>   -->
+               </div>
+            </div>
+         </div>
+
 
          <div class="image-container row mb-4">
             <div class="col-2 mt-3">
@@ -169,16 +283,13 @@
                         bibtex
                      </button></a>
                   <pre>
-
-@misc{perez2024llmsplaytelephonegame,
-   title={When LLMs Play the Telephone Game: Cumulative Changes and Attractors in Iterated Cultural Transmissions}, 
-   author={Jérémy Perez and Corentin Léger and Grgur Kovač and Cédric Colas and Gaia Molinaro and Maxime Derex and Pierre-Yves Oudeyer and Clément Moulin-Frier},
-   year={2024},
-   eprint={2407.04503},
-   archivePrefix={arXiv},
-   primaryClass={physics.soc-ph},
-   url={https://arxiv.org/abs/2407.04503}, 
-}</pre>
+@inproceedings{perez2025llms,
+   title={When LLMs play the telephone game: Cultural attractors as conceptual tools to evaluate LLMs in multi-turn settings},
+   author={Perez, J{\'e}r{\'e}my and Kova{\v{c}}, Grgur and L{\'e}ger, Corentin and Colas, C{\'e}dric and Molinaro, Gaia and Derex, Maxime and Oudeyer, Pierre-Yves and Moulin-Frier, Cl{\'e}ment},
+   booktitle={The Thirteenth International Conference on Learning Representations},
+   year={2025}
+}
+</pre>   
                </div>
             </div>
          </div>
@@ -309,184 +420,263 @@
          </div>
       </section>
 
-         <!-- Libraries -->
-         <section>
-            <h2 id="libs">Open Source</h2>
+      <!-- TODO: do a short desc + read more button -->
+      <!-- Libraries -->
+      <section>
+         <h2 id="libs">Open Source</h2>
+         <p>
+            Here is a list of open source projects I contributed to, you can check my
+            <a href="https://github.com/corentinlger" target="_blank">GitHub</a> profile for more details. 
+         </p>
+
+         <!-- Vivarium -->
+         <div class="project-item">
             <p>
-              Here is a list of open source projects I contributed to, you can check my
-              <a href="https://github.com/corentinlger" target="_blank">GitHub</a> profile for more details. 
+               <a href="https://github.com/flowersteam/vivarium" target="_blank" style="color: #0047ab"><strong>Vivarium</strong></a>
+               <span class="d-inline-block" style="vertical-align: middle; margin: 0 5px;">
+                  <a class="github-button" href="https://github.com/flowersteam/vivarium" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star on GitHub">Star</a>
+               </span>: 
+               Multi-agent Jax simulator in a 2D physics-based world.
+               <a href="javascript:void(0)" onclick="toggleProjectDesc('vivarium-desc')" class="see-more">see more</a>
             </p>
+            <div id="vivarium-desc" class="project-desc" style="display: none;">
+               
+               This simulator features simulated robots with sensors and motors, inspired by
+               <a href="https://en.wikipedia.org/wiki/Braitenberg_vehicles" target="_blank">Braitenberg vehicles</a>.
+               It serves both research and <a href="//github.com/flowersteam/vivarium/tree/main/notebooks/sessions" target="_blank">teaching</a> in AI & ALife. 
+               The simulations can be hosted on a server, and interacted with in real time from a web interface or Jupyter Notebooks.
 
+               <div style="text-align: center; margin-top: 30px;">
+                     <img src="imgs/libs/vivarium_sim.gif" alt="Vivarium Simulation" style="max-width: 50%; height: auto; border-radius: 4px; padding: 5px; display: block; margin: 0;">
+                  <!-- <img src="imgs/libs/vivarium_sim.gif" alt="Vivarium Simulation" style="max-width: 50%; height: auto; border-radius: 4px; padding: 5px;"> -->
+               </div>
+            </div>
+         </div>
+         
+         <!-- LLM-Culture -->
+         <div class="project-item">
+            <p>
+               <a href="https://github.com/flowersteam/LLM-Culture" target="_blank" style="color: #0047ab"><strong>LLM-Culture</strong></a>
+               <span class="d-inline-block" style="vertical-align: middle; margin: 0 5px;">
+                  <a class="github-button" href="https://github.com/flowersteam/LLM-Culture" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star on GitHub">Star</a>
+               </span>: 
+               Simulating text evolution in networks of LLMs.
+               <a href="javascript:void(0)" onclick="toggleProjectDesc('llm-culture-desc')" class="see-more">see more</a>
+            </p>
+            <div id="llm-culture-desc" class="project-desc" style="display: none;">
+               This software enables simulating networks of LLMs that generate text over multiple generations based on their personality, task, and neighbors' input. 
+               The project also provides NLP tools for analyzing the resulting text dynamics, as well as a web interface.
+            </div>
+         </div>
+
+         <!-- KanRL -->
+         <div class="project-item">
+            <p>
+               <a href="https://github.com/riiswa/kanrl" target="_blank" style="color: #0047ab"><strong>KanRL</strong></a>
+               <span class="d-inline-block" style="vertical-align: middle; margin: 0 5px;">
+                  <a class="github-button" href="https://github.com/riiswa/kanrl" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star on GitHub">Star</a>
+               </span>: 
+               Combine RL and Kolmogorov-Arnold Networks (KANs).
+               <a href="javascript:void(0)" onclick="toggleProjectDesc('kanrl-desc')" class="see-more">see more</a>
+            </p>
+            <div id="kanrl-desc" class="project-desc" style="display: none;">
+               I helped create a 
+               <a href="https://huggingface.co/spaces/riiswa/RL-Interpretable-Policy-via-Kolmogorov-Arnold-Network" target="_blank"> 
+               Hugging Face app</a> to interpret trained RL policies.
+               I also <a href="https://github.com/riiswa/kanrl/tree/ppo" target=_blank>implemented</a> 
+               and tested  the performance of Policy Gradient and PPO algorithms with both KANs and MLPs.
+            </div>
+         </div>
+
+
+         <p>I also fixed a few issues in the
+            <a href="https://github.com/DLR-RM/stable-baselines3" target="_blank">Stable-Baselines3</a>
+            Reinforcement Learning library, 
+            and created a tutorial for parallelized hyperparameter search on remote clusters in 
+            <a href="https://github.com/reservoirpy/reservoirpy" target="_blank">ReservoirPy</a>.
+         </p>
+
+      </section>
+
+      <!-- <section>
+         <h2 id="libs">Open Source</h2>
+         <p>
+            Here is a list of open source projects I contributed to, you can check my
+            <a href="https://github.com/corentinlger" target="_blank">GitHub</a> profile for more details. 
+         </p>
+
+         Vivarium
+         <p>
+            <a href="https://github.com/flowersteam/vivarium" target="_blank" style="color: #0047ab"><strong>Vivarium</strong></a>
+            <span class="d-inline-block" style="vertical-align: middle; margin: 0 5px;">
+               <a class="github-button" href="https://github.com/flowersteam/vivarium" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star on GitHub">Star</a>
+            </span>: 
+            Multi-agent Jax simulator in a 2D physics-based world.
+            <a href="javascript:void(0)" onclick="toggleProjectDesc('vivarium-desc')" class="see-more">see more</a>
+         </p>
+         <div id="vivarium-desc" class="project-desc" style="display: none;">
             
-            <div class="image-container row mb-4">
-               <div class="col-2 mt-3">
-                  <img src="imgs/libs/llmculture.png" alt="LLM-Culture" width="180" />
-               </div>
-               <div class="col-10">
-                  <p>
-                     <a href="https://github.com/flowersteam/LLM-Culture" target="_blank" style="color: #0047ab"><strong>
-                        LLM-Culture
-                        </strong></a><br />
-                        This software enables simulating networks composed of LLM agents, 
-                        that can generate text over multiple generations based on their neighbors' input, personality and task. 
-                        The project also provides tools for analyzing the resulting text dynamics and a web interface.
-                  </p>
-                  <div class="paper" id="llm-culture">
-                     <a href="https://github.com/flowersteam/LLM-Culture" target="_blank"><button type="button"
-                           class="btn btn-outline-primary btn-sm">
-                           code
-                        </button></a>
-                     <a href="https://x.com/Jeremy__Perez/status/1772290143761596772" target="_blank"><button type="button"
-                           class="btn btn-outline-primary btn-sm">
-                           tweet
-                        </button></a>
-                     <div class="d-inline-block ml-2" style="vertical-align: middle; margin-top: 4px;">
-                        <a class="github-button" href="https://github.com/flowersteam/LLM-Culture" data-icon="octicon-star"
-                           data-size="large" data-show-count="true" aria-label="Star on GitHub">Star</a>
-                     </div>
-                  </div>
-               </div>
-            </div>
-   
-            <div class="image-container row mb-4">
-               <div class="col-2 mt-3">
-                  <img src="imgs/libs/vivarium_sim.gif" alt="Vivarium" width="180" />
-               </div>
-               <div class="col-10">
-                  <p>
-                     <a href="https://github.com/flowersteam/vivarium" target="_blank" style="color: #0047ab"><strong>
-                        Vivarium
-                        </strong></a><br />
-                        Multi-agent simulator in a 2D physics-based world, implemented in Jax, serving
-                        both research and 
-                        <a href="//github.com/flowersteam/vivarium/tree/main/notebooks/sessions" target="_blank">teaching</a>
-                        in AI & ALife.
-                        The simulations can be hosted on a server, and interacted with in real time from a web interface or Jupyter Notebooks.
-                  </p>
-                  <div class="paper" id="vivarium">
-                     <a href="https://github.com/flowersteam/vivarium" target="_blank"><button type="button"
-                           class="btn btn-outline-primary btn-sm">
-                           code
-                        </button></a>
-                     <a href="https://x.com/corentinlger/status/1892576575440199917" target="_blank"><button type="button"
-                           class="btn btn-outline-primary btn-sm">
-                           tweet
-                        </button></a>
-                        
-                     <div class="d-inline-block ml-2" style="vertical-align: middle; margin-top: 4px;">
-                        <a class="github-button" href="https://github.com/flowersteam/vivarium" data-icon="octicon-star"
-                           data-size="large" data-show-count="true" aria-label="Star on GitHub">Star</a>
-                     </div>
-                  </div>
-               </div>
-            </div>
-   
-   
-            <div class="image-container row mb-4">
-               <div class="col-2 mt-3">
-                  <img src="imgs/libs/kanrl.png" alt="kanrl" width="180" />
-               </div>
-               <div class="col-10">
-                  <p>
-                     <a href="https://github.com/riiswa/kanrl" target="_blank" style="color: #0047ab"><strong>
-                        KanRL
-                        </strong></a><br />
-                        Project studying the combination of RL and Kolmogorov-Arnold Networks (KANs). 
-                        I helped create a 
-                        <a href="https://huggingface.co/spaces/riiswa/RL-Interpretable-Policy-via-Kolmogorov-Arnold-Network" target="_blank"> Hugging Face app</a> 
-                        to interpret RL policies,
-                        and 
-                        <a href="https://github.com/riiswa/kanrl/tree/ppo" target=_blank>benchmarked</a>
-                        the performance of Policy Gradient and PPO algorithms using both KANs and MLPs.
-                  </p>
-                  
-                  
+            This simulator features simulated robots with sensors and motors, inspired by
+            <a href="https://en.wikipedia.org/wiki/Braitenberg_vehicles" target="_blank">Braitenberg vehicles</a>.
+            It serves both research and <a href="//github.com/flowersteam/vivarium/tree/main/notebooks/sessions" target="_blank">teaching</a> in AI & ALife. 
+            The simulations can be hosted on a server, and interacted with in real time from a web interface or Jupyter Notebooks.
 
-                  <div class="paper" id="kanrl">
-                     <a href="https://github.com/riiswa/kanrl" target="_blank"><button type="button"
-                           class="btn btn-outline-primary btn-sm">
-                           code
-                        </button></a>
-                     <a href="https://huggingface.co/spaces/riiswa/RL-Interpretable-Policy-via-Kolmogorov-Arnold-Network" target="_blank"><button type="button"
-                           class="btn btn-outline-primary btn-sm">
-                           website
-                        </button></a>
-                     <!-- <div class="d-inline-block ml-2"> -->
-                        <div class="d-inline-block ml-2" style="vertical-align: middle; margin-top: 4px;">
-                        <a class="github-button" href="https://github.com/riiswa/kanrl" data-icon="octicon-star"
-                           data-size="large" data-show-count="true" aria-label="Star on GitHub">Star</a>
-                     </div>
-                  </div>
-               </div>
+            <div style="text-align: center; margin-top: 30px;">
+                  <img src="imgs/libs/vivarium_sim.gif" alt="Vivarium Simulation" style="max-width: 50%; height: auto; border-radius: 4px; padding: 5px; display: block; margin: 0;">
+               <img src="imgs/libs/vivarium_sim.gif" alt="Vivarium Simulation" style="max-width: 50%; height: auto; border-radius: 4px; padding: 5px;">
             </div>
+         </div>
 
-         <h3>Other contributions</h3>
-         <ul>
-            <li>
+         
+         LLM-Culture
+         <p>
+            <a href="https://github.com/flowersteam/LLM-Culture" target="_blank" style="color: #0047ab"><strong>LLM-Culture</strong></a>
+            <span class="d-inline-block" style="vertical-align: middle; margin: 0 5px;">
+               <a class="github-button" href="https://github.com/flowersteam/LLM-Culture" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star on GitHub">Star</a>
+            </span>: 
+            Simulating text evolution in networks of LLMs.
+            <a href="javascript:void(0)" onclick="toggleProjectDesc('llm-culture-desc')" class="see-more">see more</a>
+         </p>
+         <div id="llm-culture-desc" class="project-desc" style="display: none;">
+            This software enables simulating networks of LLMs that generate text over multiple generations based on their personality, task, and neighbors' input. 
+            The project also provides NLP tools for analyzing the resulting text dynamics, as well as a web interface.
+         </div>
+
+         
+
+         KanRL
+         <p>
+            <a href="https://github.com/riiswa/kanrl" target="_blank" style="color: #0047ab"><strong>KanRL</strong></a>
+            <span class="d-inline-block" style="vertical-align: middle; margin: 0 5px;">
+               <a class="github-button" href="https://github.com/riiswa/kanrl" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star on GitHub">Star</a>
+            </span>: 
+            Combine RL and Kolmogorov-Arnold Networks (KANs).
+            <a href="javascript:void(0)" onclick="toggleProjectDesc('kanrl-desc')" class="see-more">see more</a>
+         </p>
+         <div id="kanrl-desc" class="project-desc" style="display: none;">
+            I helped create a 
+            <a href="https://huggingface.co/spaces/riiswa/RL-Interpretable-Policy-via-Kolmogorov-Arnold-Network" target="_blank"> 
+            Hugging Face app</a> to interpret trained RL policies.
+            I also <a href="https://github.com/riiswa/kanrl/tree/ppo" target=_blank>implemented</a> 
+            and tested  the performance of Policy Gradient and PPO algorithms with both KANs and MLPs.
+         </div>
+
+         <p>I also fixed a few issues in the
+            <a href="https://github.com/DLR-RM/stable-baselines3" target="_blank">Stable-Baselines3</a>
+            Reinforcement Learning library, 
+            and created a tutorial for parallelized hyperparameter search on remote clusters in 
+            <a href="https://github.com/reservoirpy/reservoirpy" target="_blank">ReservoirPy</a>.
+         </p>
+         
+      </section> -->
+
+
+      <!-- <section>
+         <h2 id="libs">Open Source</h2>
+         <p>
+            Here is a list of open source projects I contributed to, you can check my
+            <a href="https://github.com/corentinlger" target="_blank">GitHub</a> profile for more details. 
+         </p>
+
+         
+         <p>
+            <a href="https://github.com/flowersteam/LLM-Culture" target="_blank" style="color: #0047ab"><strong>LLM-Culture</strong></a>
+            <span class="d-inline-block" style="vertical-align: middle; margin: 0 5px;">
+               <a class="github-button" href="https://github.com/flowersteam/LLM-Culture" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star on GitHub">Star</a>
+            </span>: 
+             This software enables simulating networks of LLMs, that generate text over multiple generations based on their personality, task and neighbors' input. The project also provides tools for analyzing the resulting text dynamics and a web interface.
+         </p>
+         <p>
+            <a href="https://github.com/flowersteam/vivarium" target="_blank" style="color: #0047ab"><strong>Vivarium</strong></a>
+            <span class="d-inline-block" style="vertical-align: middle; margin: 0 5px;">
+               <a class="github-button" href="https://github.com/flowersteam/vivarium" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star on GitHub">Star</a>
+            </span>: 
+             Multi-agent simulator in a 2D physics-based world, implemented in Jax, serving both research and <a href="//github.com/flowersteam/vivarium/tree/main/notebooks/sessions" target="_blank">teaching</a> in AI & ALife. The simulations can be hosted on a server, and interacted with in real time from a web interface or Jupyter Notebooks.
+         </p>
+         <p>
+            <a href="https://github.com/riiswa/kanrl" target="_blank" style="color: #0047ab"><strong>KanRL</strong></a>
+            <span class="d-inline-block" style="vertical-align: middle; margin: 0 5px;">
+               <a class="github-button" href="https://github.com/riiswa/kanrl" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star on GitHub">Star</a>
+            </span>: 
+               Project studying the combination of RL and Kolmogorov-Arnold Networks (KANs). 
+               I helped create a 
+               <a href="https://huggingface.co/spaces/riiswa/RL-Interpretable-Policy-via-Kolmogorov-Arnold-Network" target="_blank"> 
+               Hugging Face app</a> to interpret RL policies, 
+               and <a href="https://github.com/riiswa/kanrl/tree/ppo" target=_blank>benchmarked</a> 
+               the performance of Policy Gradient and PPO algorithms using both KANs and MLPs.
+         </p>
+         
+         <p>I also fixed a few issues in the popular 
+            <a href="https://github.com/DLR-RM/stable-baselines3" target="_blank">Stable-Baselines3</a>
+            Reinforcement Learning library.
+            I also created a tutorial for parallelized hyperparameter search in the
+            <a href="https://github.com/reservoirpy/reservoirpy" target="_blank">ReservoirPy</a>
+            Machine Learning library (covering how to scale it on remote clusters).
+         </p>
+      </section> -->
+<!-- 
+         <h4>Additional contributions</h4>
+         <p>
                <a href="https://github.com/DLR-RM/stable-baselines3" target="_blank" style="color: #0047ab"><strong>Stable-Baselines3</strong></a>
                <span class="d-inline-block" style="vertical-align: middle; margin: 0 5px;">
                   <a class="github-button" href="https://github.com/DLR-RM/stable-baselines3" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star on GitHub">Star</a>
                </span>: 
-               Fixed a few issues in the popular Reinforcement Learning libraries Stable-Baselines3 and Stable-Baselines3-Contrib.
-            </li>
-            <li>
+                Fixed a few issues in the Stable-Baselines3 Reinforcement Learning library.
+         </p>
+         <p>   
                <a href="https://github.com/reservoirpy/reservoirpy" target="_blank" style="color: #0047ab"><strong>ReservoirPy</strong></a>
                <span class="d-inline-block" style="vertical-align: middle; margin: 0 5px;">
                   <a class="github-button" href="https://github.com/reservoirpy/reservoirpy" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star on GitHub">Star</a>
                </span>: 
-            Created a tutorial for parallelized hyperparameter search in the ReservoirPy ML library. 
+             Created a tutorial for parallelized hyperparameter search in the ReservoirPy ML library. 
             It covers this process on local machines, as well as how to scale it on remote clusters.
-            </li>
-         </ul>
-
-         <h3 id="hackathons">Hackathons</h3>
-         <ul>
-            <li>
-               <p>🧠 <a href="https://sites.google.com/view/hack1robo/projets-%C3%A9d-3-nov-2024?authuser=0" target="_blank">Hack1Robo 2024 (first place)</a>: 
-               Optimized persuasion skills of LLMs in debate tournaments via prompt evolution. 
-               Used a Quality Diversity method to evolve the strategies of debaters LLMs.</p>
-            </li>
-            <li>
-               <p>🤖 <a href="https://github.com/huggingface/lerobot_hackathon_oct2024">Hugging Face LeRobot</a>: 
-               Assembled a robotic arm and created a real-world
-               RL environment for objects manipulation. Trained the robotic arm using both Behavioral cloning
-               and online Reinforcement Learning.</p>
-            </li>
-            <li>
-               <p>📚 <a href="https://sites.google.com/view/hack1robo/projets-%C3%A9d-1-juin-2023?authuser=0">Hack1Robo 2023</a>: 
-               Evolved and analyzed text evolution in populations of Large language Models, inspired by works in cultural evolution. 
-               This later led to the publication of 2 papers.</p>
-            </li>
-            <li>
-               <p>🧬 <a href="https://hackatechbordeaux.inria.fr/" target="_blank"">Inria Hackatech 2023</a>: 
-               Optimized multi-LLM agent systems strategies via prompt evolution.
-               Reached GPT-4 level on math tasks with evolved systems of GPT-3.5 agents. 
-               This led to a startup creation: <a href="https://ebiose.com/" target="_blank">Ebiose</a>.</p>
-            </li>
-         </ul>
-
+         </p>
+      </section> -->
+         
 
       <!-- Teaching -->
       <section>
          <h2 id="teaching">Teaching</h2>
+
+
+  
          <div class="row">
             <div class="col-2 mt-3">
                <a href="https://www.upf.edu/" target="_blank">
                   <img src="imgs/teaching/Logo_UPF.jpg" alt="UPF" width="180" /></a>
             </div>
             <div class="col-10">
-               <ul>
-                  <li>
-                     January 2025 - Teaching assistant at CISC Master, Introduction to multi-agent systems (9h)
-                  </li>
-              
-               </ul>
+               <p>
+                     January 2025 - Teaching assistant, Introduction to multi-agent systems (9h)
+               </p>
             </div>
          </div>
-       
       </section>
-   </main>
+   
+   <!-- # TODO: See if keep the projects section or not, surely yes if wanna apply to PhDs cause cool things here -->
+   <!-- Projects -->
+   <section>
+      <!-- <h2 id="projects">Projects</h2> -->
+         <h2 id="projects">Hackathons</h2>
+         <!-- <h4 id="hackathons">Hackathons</h4> -->
+            <p>🧠 <a href="https://sites.google.com/view/hack1robo/projets-%C3%A9d-3-nov-2024?authuser=0" target="_blank">Hack1Robo 2024 (first place)</a>: 
+            Optimized persuasion skills of LLMs in debate tournaments via prompt evolution. 
+            Used a Quality Diversity method to evolve the strategies of debaters LLMs.</p>
+            <p>🤖 <a href="https://github.com/huggingface/lerobot_hackathon_oct2024">Hugging Face LeRobot</a>: 
+            Assembled a robotic arm and created a real-world
+            RL environment for objects manipulation. Trained the robotic arm using both Behavioral cloning
+            and online Reinforcement Learning.</p>
+            <p>📚 <a href="https://sites.google.com/view/hack1robo/projets-%C3%A9d-1-juin-2023?authuser=0">Hack1Robo 2023</a>: 
+            Simulated text evolution in populations of LLMs, and analyze the resulting dynamics (inspired by works in cultural evolution). 
+            This later led to the publication of 2 papers.</p>
+            <p>🧬 <a href="https://hackatechbordeaux.inria.fr/" target="_blank"">Inria Hackatech 2023</a>: 
+            Optimized multi-LLM agent systems strategies via prompt evolution.
+            Reached GPT-4 level on math tasks with evolved systems of GPT-3.5 agents. 
+            This led to a startup creation: <a href="https://ebiose.com/" target="_blank">Ebiose</a>.</p>
 
+      </section>
+
+   </main>
 
         <!-- News -->
       <!-- <section>
@@ -560,9 +750,18 @@
     </p>
 </footer>
 
-   <script>
-      hideallbibs();
-   </script>
+<script>
+   hideallbibs();
+
+   function toggleProjectDesc(id) {
+      var element = document.getElementById(id);
+      if (element.style.display === 'none') {
+         element.style.display = 'block';
+      } else {
+         element.style.display = 'none';
+      }
+   }
+</script>
 </body>
 
 </html>
